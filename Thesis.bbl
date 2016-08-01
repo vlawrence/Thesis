@@ -119,6 +119,67 @@
       \field{pages}{552\bibrangedash 580}
       \range{pages}{29}
     \endentry
+    \entry{Grossman.2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3014f2183c29710cb6ffbe1a0d14aa80}{%
+           family={Grossman},
+           family_i={G\bibinitperiod},
+           given={Gene\bibnamedelima M.},
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=89fa91af2b16400f2ce6dc9cd7ea9c33}{%
+           family={Rossi-Hansberg},
+           family_i={R\bibinithyphendelim H\bibinitperiod},
+           given={Esteban},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{74f33ba07d9e0e658e733de98340f6ff}
+      \strng{fullhash}{74f33ba07d9e0e658e733de98340f6ff}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-8282}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{5}
+      \field{title}{Trading Tasks: A Simple Theory of Offshoring}
+      \field{volume}{98}
+      \field{year}{2008}
+      \field{pages}{1978\bibrangedash 1997}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1257/aer.98.5.1978
+      \endverb
+    \endentry
+    \entry{Helpman.1999}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=21befab6a0c50cc5cd0e449398ffee8b}{%
+           family={Helpman},
+           family_i={H\bibinitperiod},
+           given={Elhanan},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \strng{fullhash}{21befab6a0c50cc5cd0e449398ffee8b}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0895-3309}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{2}
+      \field{title}{The Structure of Foreign Trade}
+      \field{volume}{13}
+      \field{year}{1999}
+      \field{pages}{121\bibrangedash 144}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1257/jep.13.2.121
+      \endverb
+    \endentry
     \entry{Pedersen.2013}{book}{}
       \name{editor}{4}{}{%
         {{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{%
@@ -131,9 +192,9 @@
            family_i={B\bibinitperiod},
            given={Lydia},
            given_i={L\bibinitperiod}}}%
-        {{uniquename=0,hash=e89ebade92807f4a19718d51173b611f}{%
-           family={{Ø}rberg\bibnamedelima Jensen},
-           family_i={Ø\bibinitperiod\bibinitdelim J\bibinitperiod},
+        {{uniquename=0,hash=7b651d837b4f155aa7a9c9d89c78bf8f}{%
+           family={Jensen},
+           family_i={J\bibinitperiod},
            given={Peter\bibnamedelima D.},
            given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{uniquename=0,hash=51eac3646efa5b8c103e81d5973a2bf0}{%
@@ -149,7 +210,7 @@
         {Springer}%
       }
       \strng{namehash}{0e45b3f692572c7ed3b872991a59fb68}
-      \strng{fullhash}{151dea900a84746eb9c5cd6b96683305}
+      \strng{fullhash}{8803e68089ce617464ba82e9611588f8}
       \field{sortinit}{P}
       \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
       \field{labelyear}{2013}
@@ -198,7 +259,7 @@
       \endverb
     \endentry
     \entry{Specht.2007}{book}{}
-      \name{author}{1}{}{%
+      \name{editor}{1}{}{%
         {{uniquename=0,hash=9a83eb581babd84d4da89a319290c439}{%
            family={Specht},
            family_i={S\bibinitperiod},
@@ -217,7 +278,7 @@
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
       \field{labelyear}{2007}
       \field{datelabelsource}{}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{Der Stellenabbau in Westeuropa zugunsten kostengünstigerer Standorte wird von der Diskussion über Produktionsverlagerungen und Outsourcing begleitet. In der Praxis überdeckte jedoch der starke Kostenbezug bei Offshoring- und Outsourcing-Entscheidungen wichtige Aspekte bei der Gestaltung inner- und überbetrieblicher Wertschöpfungsketten, wie beispielsweise Rückverlagerungen und Re-Insourcing-Aktivitäten belegen. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Prof. Dr.-Ing. habil. Dieter Specht ist Leiter des Lehrstuhls für Produktionswirtschaft an der Technischen Universität in Cottbus.}
       \field{edition}{1. Aufl.}
@@ -226,6 +287,49 @@
       \field{title}{Insourcing, Outsourcing, Offshoring}
       \field{volume}{v.356}
       \field{year}{2007}
+    \endentry
+    \entry{Specht.2007b}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9a83eb581babd84d4da89a319290c439}{%
+           family={Specht},
+           family_i={S\bibinitperiod},
+           given={Dieter},
+           given_i={D\bibinitperiod}}}%
+        {{uniquename=0,hash=cb90ce7b60eaf53d042af3be156c31aa}{%
+           family={Lutz},
+           family_i={L\bibinitperiod},
+           given={Markus},
+           given_i={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9a83eb581babd84d4da89a319290c439}{%
+           family={Specht},
+           family_i={S\bibinitperiod},
+           given={Dieter},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {s.l.}%
+      }
+      \list{publisher}{1}{%
+        {DUV Deutscher Universitäts-Verlag}%
+      }
+      \strng{namehash}{a23a3d902fa889283a95a3dc83b9bcaf}
+      \strng{fullhash}{a23a3d902fa889283a95a3dc83b9bcaf}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Insourcing, Outsourcing, Offshoring}
+      \field{isbn}{978-3-8350-0830-4}
+      \field{series}{Beiträge zur Produktionswirtschaft}
+      \field{title}{Outsourcing und Offshoring als strategische Handlungsalternativen}
+      \field{volume}{v.356}
+      \field{year}{2007}
+      \field{pages}{43\bibrangedash 60}
+      \range{pages}{18}
     \endentry
   \endsortlist
 \endrefsection

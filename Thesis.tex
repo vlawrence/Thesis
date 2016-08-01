@@ -27,10 +27,10 @@ captions=tableheading]{scrartcl}
 \usepackage{moreverb} %tabulator formatierung in verbatim umgebung
 
 %nur einzelne Kapitel einbinden:
-%\includeonly{1_Introduction.tex}
-%\includeonly{2_Offshoring-Literature.tex}
-%\includeonly{3_Case-Studies.tex}
-%\includeonly{4_Conclusions.tex}
+%\includeonly{1_Introduction}
+%\includeonly{2_Offshoring-Literature}
+%\includeonly{3_Case-Studies}
+%\includeonly{4_Conclusions}
 
 
 \renewcommand{\labelenumi}{\arabic{enumi}.}
@@ -49,20 +49,20 @@ captions=tableheading]{scrartcl}
 	
 	\newpage
 	\listoftables
-	\newpage
+
 }
 \begin{document}
 \pagenumbering{gobble}
 \firstpages
 
 \pagenumbering{arabic}
-\input{1_Introduction.tex}
-\newpage
-\input{2_Offshoring-Literature.tex}
-\newpage
-\input{3_Case-Studies.tex}
-\newpage
-\input{4_Conclusions.tex}
+\include{1_Introduction}
+
+\include{2_Offshoring-Literature}
+
+\include{3_Case-Studies}
+
+\include{4_Conclusions}
 \clearpage
 \addcontentsline{toc}{section}{References}
 \label{Ref}

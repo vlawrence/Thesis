@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  1 AUG 2016 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  1 AUG 2016 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -923,7 +923,8 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count304
 \@quotereset=\count305
-(./Thesis.aux)
+(./Thesis.aux (./1_Introduction.aux) (./2_Offshoring-Literature.aux)
+(./3_Case-Studies.aux) (./4_Conclusions.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -1066,33 +1067,47 @@ l.56 \firstpages
 \tf@lot=\write7
 \openout7 = `Thesis.lot'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.56 \firstpages
-                 [4] (./1_Introduction.tex) [1] (./2_Offshoring-Literature.tex
-<Pictures/Terms_definition.jpg, id=170, 387.69844pt x 389.20406pt>
+ [1]
+\openout2 = `1_Introduction.aux'.
+
+ (./1_Introduction.tex) [2
+
+]
+\openout2 = `2_Offshoring-Literature.aux'.
+
+
+(./2_Offshoring-Literature.tex
+<Pictures/Terms_definition.jpg, id=175, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
-Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 20.
+Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 26.
 (pdftex.def)             Requested size: 318.66948pt x 319.90956pt.
-) [2] [3pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.1}) has been already used, duplicate ignored
+) [3
+
+
+] [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.62 \newpage
-              <./Pictures/Terms_definition.jpg>] [4] (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=193, 755.82375pt x 491.58656pt>
+l.61 \include{2_Offshoring-Literature}
+                                       <./Pictures/Terms_definition.jpg>]
+[5]
+\openout2 = `3_Case-Studies.aux'.
+
+ (./3_Case-Studies.tex
+<Pictures/Interview_process.jpg, id=201, 755.82375pt x 491.58656pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
 Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 15.
-(pdftex.def)             Requested size: 318.66948pt x 207.26006pt.
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
+(pdftex.def)             Requested size: 227.62206pt x 148.03967pt.
+ [6
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1106,14 +1121,33 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
-) [6]
-[7] (./4_Conclusions.tex) [8]
+) [7]
+[8]
+\openout2 = `4_Conclusions.aux'.
+
+ (./4_Conclusions.tex) [9
+
+
+]
+Overfull \hbox (4.85452pt too wide) in paragraph at lines 70--70
+[][]\OT1/cmr/m/n/12 Specht, Di-eter, ed. (2007). \OT1/cmr/m/it/12 In-sourc-ing,
+ Out-sourc-ing, Off-shoring\OT1/cmr/m/n/12 . 1. Aufl. Vol. v.356. Beitr^^?age
+ []
+
+
+Overfull \hbox (4.33281pt too wide) in paragraph at lines 70--70
+\OT1/cmr/m/n/12 Hand-lungsalter-na-tiven''. In: \OT1/cmr/m/it/12 In-sourc-ing, 
+Out-sourc-ing, Off-shoring\OT1/cmr/m/n/12 . Ed. by Di-eter Specht.
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
- [9
+[10
+
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
- (./Thesis.aux)
+ (./Thesis.aux (./1_Introduction.aux) (./2_Offshoring-Literature.aux)
+(./3_Case-Studies.aux) (./4_Conclusions.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
@@ -1124,10 +1158,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 14499 strings out of 493027
- 237032 string characters out of 6131332
- 724583 words of memory out of 5000000
- 17789 multiletter control sequences out of 15000+600000
+ 14534 strings out of 493027
+ 237710 string characters out of 6131332
+ 733764 words of memory out of 5000000
+ 17804 multiletter control sequences out of 15000+600000
  10574 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,59p,1498b,2187s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1140,10 +1174,10 @@ ic/amsfonts/cm/cmssbx10.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files/texlive/2015/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/2015/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Thesis.pdf (13 pages, 191420 bytes).
+Output written on Thesis.pdf (13 pages, 194773 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 257 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
