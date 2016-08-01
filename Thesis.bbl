@@ -131,9 +131,9 @@
            family_i={B\bibinitperiod},
            given={Lydia},
            given_i={L\bibinitperiod}}}%
-        {{uniquename=0,hash=d9dd6e4520a64549953625f8a4d240b5}{%
-           family={{{Ø}rberg\bibnamedelimb Jensen}},
-           family_i={{Ø\bibinitperiod},
+        {{uniquename=0,hash=e89ebade92807f4a19718d51173b611f}{%
+           family={{Ø}rberg\bibnamedelima Jensen},
+           family_i={Ø\bibinitperiod\bibinitdelim J\bibinitperiod},
            given={Peter\bibnamedelima D.},
            given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{uniquename=0,hash=51eac3646efa5b8c103e81d5973a2bf0}{%
@@ -149,7 +149,7 @@
         {Springer}%
       }
       \strng{namehash}{0e45b3f692572c7ed3b872991a59fb68}
-      \strng{fullhash}{adc1b9434513de3651984d0c14db9b44}
+      \strng{fullhash}{151dea900a84746eb9c5cd6b96683305}
       \field{sortinit}{P}
       \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
       \field{labelyear}{2013}

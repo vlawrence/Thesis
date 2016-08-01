@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  1 AUG 2016 20:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  1 AUG 2016 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,22 +1000,11 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
- (./Thesis.bbl
-Runaway argument?
-{{{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{family={Peders\ETC.
-! Paragraph ended before \name was complete.
-<to be read again> 
-                   \par 
-l.233 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-)
+ (./Thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 54.
 Package biblatex Info: Reference segment=0 on input line 54.
- ABD: EverySelectfont initializing macros
+
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 54.
 
 (d:/Program Files/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1083,13 +1072,7 @@ een already used, duplicate ignored
                    \relax 
 l.56 \firstpages
                  [4] (./1_Introduction.tex) [1] (./2_Offshoring-Literature.tex
-
-LaTeX Warning: Citation 'Rottman.2008' on page 2 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Specht.2007' on page 2 undefined on input line 8.
-
-<Pictures/Terms_definition.jpg, id=93, 387.69844pt x 389.20406pt>
+<Pictures/Terms_definition.jpg, id=170, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
@@ -1102,7 +1085,7 @@ e.1}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.62 \newpage
               <./Pictures/Terms_definition.jpg>] [4] (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=115, 755.82375pt x 491.58656pt>
+<Pictures/Interview_process.jpg, id=193, 755.82375pt x 491.58656pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
@@ -1116,66 +1099,51 @@ Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 15.
 l.23 \paragraph
                {Conduct interview} The interviews are conducted in five phas...
  <./Pictures/Interview_process.jpg>]
-! Illegal parameter number in definition of \NewCount.
-<to be read again> 
-                   1
-l.24 \begin{itemize}
-                    
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
 
-! Illegal parameter number in definition of \NewCount.
-<to be read again> 
-                   1
-l.24 \begin{itemize}
-                    
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
+(d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+) [6]
+[7] (./4_Conclusions.tex) [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+ [9
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \global 
-l.24 \begin{itemize}
-                    
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+ (./Thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 232F134F66A8A36D1171B16470F09CCF;1802.
+Package logreq Info: Writing requests to 'Thesis.run.xml'.
+\openout1 = `Thesis.run.xml'.
 
-! Undefined control sequence.
-<argument> \blx@bbl@data 
-                         
-l.24 \begin{itemize}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \global 
-l.24 \begin{itemize}
-                    
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! TeX capacity exceeded, sorry [input stack size=5000].
-\curr@fontshape ->\f@encoding 
-                              /\f@family /\f@series /\f@shape 
-l.24 \begin{itemize}
-                    
-If you really absolutely need more capacity,
-you can ask a wizard to enlarge me.
-
- 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+ ) 
 Here is how much of TeX's memory you used:
- 14413 strings out of 493027
- 235673 string characters out of 6131332
- 740951 words of memory out of 5000000
- 17739 multiletter control sequences out of 15000+600000
- 9757 words of font info for 35 fonts, out of 8000000 for 9000
+ 14499 strings out of 493027
+ 237032 string characters out of 6131332
+ 724583 words of memory out of 5000000
+ 17789 multiletter control sequences out of 15000+600000
+ 10574 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 5000i,8n,9987p,1462b,1453s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 42i,8n,59p,1498b,2187s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmssbx10.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files/texlive/2015/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Thesis.pdf (13 pages, 191420 bytes).
+PDF statistics:
+ 276 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
+
