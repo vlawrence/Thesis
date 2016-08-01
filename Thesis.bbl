@@ -1,0 +1,233 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{Alebrand.2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=15948a901fcc5098245aa7ea6e3a0290}{%
+           family={Alebrand},
+           family_i={A\bibinitperiod},
+           given={Wolf-Werner},
+           given_i={W\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{15948a901fcc5098245aa7ea6e3a0290}
+      \strng{fullhash}{15948a901fcc5098245aa7ea6e3a0290}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Veronika Lawrence 2016] Interview mit Wolf-Werner Alebrand von Shell über dessen Tätigkeit zum Offshoring der Buchhaltungsprozesse des Shell-Konzern.}
+      \field{issn}{2195-8262}
+      \field{journaltitle}{Controlling {\&} Management Review}
+      \field{number}{8}
+      \field{title}{Offshoring statt Outsourcing}
+      \field{volume}{57}
+      \field{year}{2013}
+      \field{pages}{86\bibrangedash 92}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1365/s12176-013-0812-4
+      \endverb
+      \keyw{Interview}
+    \endentry
+    \entry{Andersson.2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=459cbcc9edbf133d0231b408800dd14f}{%
+           family={Andersson},
+           family_i={A\bibinitperiod},
+           given={Linda},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=431252efed79f6f470a3d4d7094ebb04}{%
+           family={Karpaty},
+           family_i={K\bibinitperiod},
+           given={Patrik},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=05751e3638599ddeecfaa43317725098}{%
+           family={Savsin},
+           family_i={S\bibinitperiod},
+           given={Selen},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7233f8afbe340b5f1868c8d793d011a4}
+      \strng{fullhash}{7233f8afbe340b5f1868c8d793d011a4}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Aus:~Andersson /~Karpaty /~Savsin 2016] Based on firm-level data over the period 1997--2002 for the Swedish manufacturing sector the objective of this paper is to analyze relative labor demand effects due to offshoring, separating between materials and services offshoring and also geographical location of trade partner. Overall, our results give no support to the fears that offshoring of materials or services lead to out-location of high-skilled activity in Swedish firms. Rather, this paper finds evidence that the aggregate effects from offshoring lead to increasing relative demand of high-skilled labor, mainly due to services offshoring to middle income countries.}
+      \field{issn}{1610-2878}
+      \field{journaltitle}{Review of World Economics}
+      \field{number}{2}
+      \field{title}{Firm-level effects of offshoring of materials and services on relative labor demand}
+      \field{volume}{152}
+      \field{year}{2016}
+      \field{pages}{321\bibrangedash 350}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1007/s10290-015-0243-8
+      \endverb
+      \keyw{Offshoring Firm-level data Relative employment Translog cost function}
+    \endentry
+    \entry{Antras.2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ffefcc8b08ea287d2d872401fd7617ef}{%
+           family={Antràs},
+           family_i={A\bibinitperiod},
+           given={Pol},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=21befab6a0c50cc5cd0e449398ffee8b}{%
+           family={Helpman},
+           family_i={H\bibinitperiod},
+           given={Elhanan},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca6ff4925aa05905946ddec9e7d1c048}
+      \strng{fullhash}{ca6ff4925aa05905946ddec9e7d1c048}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a North-South model of international trade in which differentiated products are developed in the North. Sectors are populated by final-good producers who differ in productivity levels. On the basis of productivity and sectoral characteristics, firms decide whether to integrate into the production of intermediate inputs or outsource them. In either case they have to decide from which country to source the inputs. Final-good producers and their suppliers must make relationship-specific investments, both in an integrated firm and in an arm's-length relationship. We describe an equilibrium in which firms with different productivity levels choose different ownership structures and supplier locations. We then study the effects of withinsectoral heterogeneity and variations in industry characteristics on the relative prevalence of these organizational forms.}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{3}
+      \field{title}{Global Sourcing}
+      \field{volume}{112}
+      \field{year}{2004}
+      \field{pages}{552\bibrangedash 580}
+      \range{pages}{29}
+    \endentry
+    \entry{Pedersen.2013}{book}{}
+      \name{editor}{4}{}{%
+        {{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{%
+           family={Pedersen},
+           family_i={P\bibinitperiod},
+           given={Torben},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=899835a5e5a9002b0f3bb551dfd088d5}{%
+           family={Bals},
+           family_i={B\bibinitperiod},
+           given={Lydia},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=d9dd6e4520a64549953625f8a4d240b5}{%
+           family={{{Ø}rberg\bibnamedelimb Jensen}},
+           family_i={{Ø\bibinitperiod},
+           given={Peter\bibnamedelima D.},
+           given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{uniquename=0,hash=51eac3646efa5b8c103e81d5973a2bf0}{%
+           family={Larsen},
+           family_i={L\bibinitperiod},
+           given={Marcus\bibnamedelima M.},
+           given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0e45b3f692572c7ed3b872991a59fb68}
+      \strng{fullhash}{adc1b9434513de3651984d0c14db9b44}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The continuous search for efficiency gains and the goal of attaining a sustainable competitive advantage have steadily increased the volume of goods and services procured globally from third party vendors. In this context, named as ``the next wave of globalization'', the offshoring phenomenon has stimulated research and political debates. With the rise of services offshoring, international value chain disaggregation for services has reached a formerly unknown scale. Also, it is increasingly complex transactions, requiring a higher degree of qualification, which are becoming subject to offshoring as well.The Offshoring Challenge: Strategic Design and Innovation for Tomorrow's Organizationfeatures selected chapters by an international research community on the topic of offshoring. All potential business models from offshore outsourcing to third party providers are covered, from cooperative arrangements to internal organizational set-ups including captive offshore centers. Contributions have significant insights regarding: the increasing offshoring of knowledge-intensive services; the offshoring process; business models incorporating offshoring; the hidden costs of offshoring; and the administration of offshoring activities within firmsThe book is aimed at a broad audience of scholars, students and practitioners in the fields of strategy, international business and operations management}
+      \field{isbn}{978-1-4471-4907-1}
+      \field{title}{The Offshoring Challenge: Strategic Design and Innovation for Tomorrow's Organization}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1007/978-1-4471-4908-8
+      \endverb
+    \endentry
+    \entry{Rottman.2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0749df101e157542da579ea984e24d92}{%
+           family={Rottman},
+           family_i={R\bibinitperiod},
+           given={Joseph\bibnamedelima W.},
+           given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{uniquename=0,hash=906b1dcbe12bd8dde6de66f5d44551e0}{%
+           family={Lacity},
+           family_i={L\bibinitperiod},
+           given={Mary\bibnamedelima C.},
+           given_i={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e38e8c79b1220327094895401465d06}
+      \strng{fullhash}{6e38e8c79b1220327094895401465d06}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1387-3326}
+      \field{journaltitle}{Information Systems Frontiers}
+      \field{number}{2}
+      \field{title}{A US Client's learning from outsourcing IT work offshore}
+      \field{volume}{10}
+      \field{year}{2008}
+      \field{pages}{259\bibrangedash 275}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s10796-007-9061-4
+      \endverb
+    \endentry
+    \entry{Specht.2007}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9a83eb581babd84d4da89a319290c439}{%
+           family={Specht},
+           family_i={S\bibinitperiod},
+           given={Dieter},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {s.l.}%
+      }
+      \list{publisher}{1}{%
+        {DUV Deutscher Universitäts-Verlag}%
+      }
+      \strng{namehash}{9a83eb581babd84d4da89a319290c439}
+      \strng{fullhash}{9a83eb581babd84d4da89a319290c439}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Stellenabbau in Westeuropa zugunsten kostengünstigerer Standorte wird von der Diskussion über Produktionsverlagerungen und Outsourcing begleitet. In der Praxis überdeckte jedoch der starke Kostenbezug bei Offshoring- und Outsourcing-Entscheidungen wichtige Aspekte bei der Gestaltung inner- und überbetrieblicher Wertschöpfungsketten, wie beispielsweise Rückverlagerungen und Re-Insourcing-Aktivitäten belegen. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Prof. Dr.-Ing. habil. Dieter Specht ist Leiter des Lehrstuhls für Produktionswirtschaft an der Technischen Universität in Cottbus.}
+      \field{edition}{1. Aufl.}
+      \field{isbn}{978-3-8350-0830-4}
+      \field{series}{Beiträge zur Produktionswirtschaft}
+      \field{title}{Insourcing, Outsourcing, Offshoring}
+      \field{volume}{v.356}
+      \field{year}{2007}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
