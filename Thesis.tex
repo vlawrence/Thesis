@@ -6,7 +6,6 @@ headsepline=true,
 footsepline=true,
 captions=tableheading]{scrartcl}
 \usepackage[english]{babel}
-
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper , lmargin = {2.5cm} , rmargin = {2.5cm} , tmargin = {2.5cm} , bmargin = {2.5cm}]{geometry}
 \usepackage[hyphens]{url}
@@ -28,15 +27,20 @@ captions=tableheading]{scrartcl}
 
 %nur einzelne Kapitel einbinden:
 %\includeonly{1_Introduction}
-%\includeonly{2_Offshoring-Literature}
+\includeonly{2_Offshoring-Literature}
 %\includeonly{3_Case-Studies}
 %\includeonly{4_Conclusions}
 
-
+%Change standard enumeration layers
 \renewcommand{\labelenumi}{\arabic{enumi}.}
 \renewcommand{\labelenumii}{\arabic{enumi}.\arabic {enumii}}
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 
+%Disable Appendix Sections showing up in ToC
+\newcommand{\nocontentsline}[3]{}
+\newcommand{\tocless}[2]{\bgroup\let\addcontentsline=\nocontentsline#1{#2}\egroup}
+
+%First pages
 \newcommand{\firstpages}{
 	\input{0_Deckblatt.tex}
 	
@@ -55,7 +59,7 @@ captions=tableheading]{scrartcl}
 \pagenumbering{gobble}
 \firstpages
 
-\pagenumbering{arabic}
+
 \include{1_Introduction}
 
 \include{2_Offshoring-Literature}
@@ -63,8 +67,12 @@ captions=tableheading]{scrartcl}
 \include{3_Case-Studies}
 
 \include{4_Conclusions}
+
 \clearpage
 \addcontentsline{toc}{section}{References}
 \label{Ref}
 \printbibliography
+
+\include{Appendix}
+
 \end{document}

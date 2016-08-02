@@ -4,70 +4,72 @@
 \defcounter {refsection}{0}\relax 
 ~\hfill \textbf {Page}\par 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Offshoring in literature}{3}{section.2}
+\contentsline {section}{\numberline {2}Offshoring in literature}{}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Definition and Terms}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Definition and Terms}{}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}History of Offshoring}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}History of Offshoring}{}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1}Prevalence}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1}Prevalence}{}{subsubsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2}Offshoring functions}{5}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2}Offshoring functions}{}{subsubsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{}{subsection.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.1}Prevalence}{5}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1}Prevalence}{}{subsubsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.2}Offshored functions}{5}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2}Offshored functions}{}{subsubsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Significant differences between Germany and the USA}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.5}Significant differences between Germany and the USA}{}{subsection.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.1}Difference 1}{5}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.1}Difference 1}{}{subsubsection.2.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2}Difference 2}{5}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.2}Difference 2}{}{subsubsection.2.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Case Studies}{6}{section.3}
+\contentsline {section}{\numberline {3}Case Studies}{5}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Interview Technique}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.1}Interview Technique}{5}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Identify experts}{6}{section*.4}
+\contentsline {paragraph}{\nonumberline Identify experts}{5}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Contact experts}{6}{section*.5}
+\contentsline {paragraph}{\nonumberline Contact experts}{5}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Negotiate date}{6}{section*.6}
+\contentsline {paragraph}{\nonumberline Negotiate date}{5}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Conduct interview}{7}{section*.7}
+\contentsline {paragraph}{\nonumberline Conduct interview}{6}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Transcribe interview}{7}{section*.8}
+\contentsline {paragraph}{\nonumberline Transcribe interview}{6}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Evaluate interview}{7}{section*.9}
+\contentsline {paragraph}{\nonumberline Evaluate interview}{6}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Abstract interview}{7}{section*.10}
+\contentsline {paragraph}{\nonumberline Abstract interview}{6}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{7}{section*.11}
+\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{6}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{7}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Background}{8}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1}Background}{7}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{8}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{7}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{8}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{7}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Case study Title 2}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}Case study Title 2}{7}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Background}{8}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1}Background}{7}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{8}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{7}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{8}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{7}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{8}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{7}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{9}{section.4}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{8}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{10}{section.4}
+\contentsline {section}{References}{}{subsubsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendix}{10}{section*.13}
