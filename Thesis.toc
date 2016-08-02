@@ -10,7 +10,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Definition and Terms}{}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}History of Offshoring}{}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Political and Macroeconomic Factors}{}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Information and Communication Technology}{}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Organizational Factors}{}{section*.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{}{subsection.2.3}
 \defcounter {refsection}{0}\relax 

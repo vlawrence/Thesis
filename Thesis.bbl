@@ -258,6 +258,35 @@
       \verb 10.1007/s10796-007-9061-4
       \endverb
     \endentry
+    \entry{Sachs.1995}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e90ab403bc64748bc7b4024e5e81fc60}{%
+           family={Sachs},
+           family_i={S\bibinitperiod},
+           given={Jeffrey\bibnamedelima D.},
+           given_i={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{uniquename=0,hash=a44e5885142b400806d1b3530832cbe5}{%
+           family={Warner},
+           family_i={W\bibinitperiod},
+           given={Andrew},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{66ebb0cc4d3bcf2515a9359750988a49}
+      \strng{fullhash}{66ebb0cc4d3bcf2515a9359750988a49}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CiteSeerX - Document Details (Isaac Councill, Lee Giles, Pradeep Teregowda): world economy roughly accorded with the idea of three distinct economic systems: a capitalist first world, a socialist second world, and a developing third world which aimed for a middle way between the first two. The third world was characterized not only by its low levels of per capita GDP, but also by a distinctive economic system that assigned the state sector the predominant role in industrialization, although not the monopoly on industrial ownership as in the socialist economies. The years between 1970 and 1995, and especially the last decade, have witnessed the most remarkable institutional harmonization and economic integration among nations in world history. While economic integration was increasing throughout the 1970s and 1980s, the extent of integration has come sharply into focus only since the collapse of communism in 1989. In 1995 one dominant global economic system is emerging. The common set of institutions is exemplified by the new World Trade Organization (WTO), which was established by agreement of}
+      \field{journaltitle}{Brookings Papers on Economic Activity}
+      \field{title}{Economic Reform and the Process of Global Integration}
+      \field{volume}{1}
+      \field{year}{1995}
+      \field{pages}{1\bibrangedash 118}
+      \range{pages}{118}
+    \endentry
     \entry{Specht.2007}{book}{}
       \name{editor}{1}{}{%
         {{uniquename=0,hash=9a83eb581babd84d4da89a319290c439}{%

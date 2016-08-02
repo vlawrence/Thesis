@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  2 AUG 2016 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  2 AUG 2016 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1086,25 +1086,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \subsection
-                {Offshoring in the USA} [2
+l.34 
+      [2
 
 
-])pdfTeX warning (ext4): destination with the same identifier (name{page.}) has
- been already used, duplicate ignored
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 \include{2_Offshoring-Literature}
-                                       [3pdfTeX warning (ext4): destination wit
-h the same identifier (name{figure.1}) has been already used, duplicate ignored
-
+l.45 \subsection
+                {Offshoring in the USA} [3pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.1}) has been already used, duplicate ignore
+d
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.65 \include{2_Offshoring-Literature}
-                                       <./Pictures/Terms_definition.jpg>]pdfTeX
- warning (ext4): destination with the same identifier (name{page.}) has been al
-ready used, duplicate ignored
+l.45 \subsection
+                {Offshoring in the USA} <./Pictures/Terms_definition.jpg>])pdfT
+eX warning (ext4): destination with the same identifier (name{page.}) has been 
+already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.65 \include{2_Offshoring-Literature}
@@ -1139,17 +1139,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F9CFCBAB3F89231118622FC8FE035A1D;935.
+(rerunfilecheck)             Checksum: 381A59CFF2C8097467299094C745CE32;955.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 14473 strings out of 493027
- 236596 string characters out of 6131332
- 736095 words of memory out of 5000000
- 17765 multiletter control sequences out of 15000+600000
+ 14479 strings out of 493027
+ 236686 string characters out of 6131332
+ 736111 words of memory out of 5000000
+ 17767 multiletter control sequences out of 15000+600000
  10574 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,8n,59p,1498b,2185s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1206,10 +1211,10 @@ fonts/cm/cmr17.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/2015/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Thesis.pdf (8 pages, 136295 bytes).
+Output written on Thesis.pdf (8 pages, 138265 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
