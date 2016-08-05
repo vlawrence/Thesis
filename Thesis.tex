@@ -27,7 +27,7 @@ captions=tableheading]{scrartcl}
 
 %nur einzelne Kapitel einbinden:
 %\includeonly{1_Introduction}
-\includeonly{2_Offshoring-Literature}
+%\includeonly{2_Offshoring-Literature}
 %\includeonly{3_Case-Studies}
 %\includeonly{4_Conclusions}
 
@@ -47,12 +47,14 @@ captions=tableheading]{scrartcl}
 	\newpage
 	\tableofcontents{}
 	\addtocontents{toc}{~\hfill\textbf{Page}\par}
-	
+
 	\newpage
+	\pagenumbering{arabic}
 	\listoffigures
-	
+	\addcontentsline{toc}{section}{List of Figures}
 	\newpage
 	\listoftables
+	\addcontentsline{toc}{section}{List of Tables}
 
 }
 \begin{document}

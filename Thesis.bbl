@@ -180,6 +180,130 @@
       \verb 10.1257/jep.13.2.121
       \endverb
     \endentry
+    \entry{Hutzschenreuter.2007}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=0805e12f2555f8b5372d64b62f428efc}{%
+           family={Hutzschenreuter},
+           family_i={H\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=2278d56fce6cfad0aaa304845542d075}{%
+           family={Dresel},
+           family_i={D\bibinitperiod},
+           given={Stephan},
+           given_i={S\bibinitperiod}}}%
+        {{uniquename=0,hash=94ff380806d3a27ca816b220c8a4bfe2}{%
+           family={Ressler},
+           family_i={R\bibinitperiod},
+           given={Wolfgang},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {WHU Otto Beisheim School of Management}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Berlin Heidelberg}%
+      }
+      \strng{namehash}{4ee15dcd9790a35784484ceced8d3e65}
+      \strng{fullhash}{4ee15dcd9790a35784484ceced8d3e65}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Seit einiger Zeit machen Unternehmen verstärkt von der Möglichkeit Gebrauch, neben der Produktion auch zentrale Funktionen wie IT, Finanz- und Rechnungswesen oder Personalwesen im Ausland zu erbringen. Basierend auf einer umfangreichen empirischen Studie von deutschen und amerikanischen Unternehmen liefern die Autoren einen detailreichen Überblick über den aktuellen Stand des Offshorings von Zentralbereichen in der Praxis. Sie analysieren die bisher erzielten Ergebnisse und zeigen Risiken, Hindernisse und ungenutzte Möglichkeiten auf. Das Buch hilft Entscheidern in Unternehmen, vor einer geplanten Auslagerung von den Erfahrungen deutscher und amerikanischer Unternehmen zu lernen und den Erfolg bestehender Aktivitäten, z.B. im Hinblick auf Einsparpotentiale und Servicequalität, an den Ergebnissen anderer Unternehmen zu messen. Auch Beratungsunternehmen, Service Providern und Wissenschaftlern bietet das Buch einen interessanten Einblick in die Gegenwart und zukünftige Entwicklung des Offshorings. Unternehmen lassen verstärkt zentrale Leistungen wie IT, Finanz- und Rechnungs- oder Personalwesen im Ausland erbringen. Der aktuelle, detaillierte Stand - basierend auf einer umfangreichen empirischen Studie deutscher und US-amerikanischer Unternehmen: Ergebnisse, Risiken, Hindernisse und ungenutzte Möglichkeiten. Für Entscheider, die aus diesen Erfahrungen lernen und den Erfolg ihrer Aktivitäten an den Ergebnissen anderer messen wollen.}
+      \field{isbn}{978-3-540-71934-2}
+      \field{title}{Offshoring von Zentralbereichen: Von den Erfahrungen deutscher und amerikanischer Unternehmen lernen}
+      \field{year}{2007}
+    \endentry
+    \entry{Jahns.2007}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=e128b334faebd3549fc9c29729a1d8ae}{%
+           family={Jahns},
+           family_i={J\bibinitperiod},
+           given={Christopher},
+           given_i={C\bibinitperiod}}}%
+        {{uniquename=0,hash=61b3ab24cf6fc75d3bfd3a4b083e356b}{%
+           family={Hartmann},
+           family_i={H\bibinitperiod},
+           given={Evi},
+           given_i={E\bibinitperiod}}}%
+        {{uniquename=0,hash=899835a5e5a9002b0f3bb551dfd088d5}{%
+           family={Bals},
+           family_i={B\bibinitperiod},
+           given={Lydia},
+           given_i={L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9a83eb581babd84d4da89a319290c439}{%
+           family={Specht},
+           family_i={S\bibinitperiod},
+           given={Dieter},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {s.l.}%
+      }
+      \list{publisher}{1}{%
+        {DUV Deutscher Universitäts-Verlag}%
+      }
+      \strng{namehash}{5aaaa87325434116a7a8bc597e13c083}
+      \strng{fullhash}{5aaaa87325434116a7a8bc597e13c083}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Insourcing, Outsourcing, Offshoring}
+      \field{isbn}{978-3-8350-0830-4}
+      \field{series}{Beiträge zur Produktionswirtschaft}
+      \field{title}{Offshoring:~Analyse der Hintergründe und Potenziale}
+      \field{volume}{v.356}
+      \field{year}{2007}
+      \field{pages}{85\bibrangedash 106}
+      \range{pages}{22}
+    \endentry
+    \entry{Knolmayer.2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0c7115ac1d9612709e7cb9cb6310b474}{%
+           family={Knolmayer},
+           family_i={K\bibinitperiod},
+           given={Gerhard\bibnamedelima F.},
+           given_i={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9a83eb581babd84d4da89a319290c439}{%
+           family={Specht},
+           family_i={S\bibinitperiod},
+           given={Dieter},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {s.l.}%
+      }
+      \list{publisher}{1}{%
+        {DUV Deutscher Universitäts-Verlag}%
+      }
+      \strng{namehash}{0c7115ac1d9612709e7cb9cb6310b474}
+      \strng{fullhash}{0c7115ac1d9612709e7cb9cb6310b474}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Insourcing, Outsourcing, Offshoring}
+      \field{isbn}{978-3-8350-0830-4}
+      \field{series}{Beiträge zur Produktionswirtschaft}
+      \field{title}{Sourcing-Entscheidungen aus den Perspektiven des Produktions- und Informationsmanagement}
+      \field{volume}{v.356}
+      \field{year}{2007}
+    \endentry
     \entry{Pedersen.2013}{book}{}
       \name{editor}{4}{}{%
         {{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{%
@@ -286,36 +410,6 @@
       \field{year}{1995}
       \field{pages}{1\bibrangedash 118}
       \range{pages}{118}
-    \endentry
-    \entry{Specht.2007}{book}{}
-      \name{editor}{1}{}{%
-        {{uniquename=0,hash=9a83eb581babd84d4da89a319290c439}{%
-           family={Specht},
-           family_i={S\bibinitperiod},
-           given={Dieter},
-           given_i={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {s.l.}%
-      }
-      \list{publisher}{1}{%
-        {DUV Deutscher Universitäts-Verlag}%
-      }
-      \strng{namehash}{9a83eb581babd84d4da89a319290c439}
-      \strng{fullhash}{9a83eb581babd84d4da89a319290c439}
-      \field{sortinit}{S}
-      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
-      \field{labelyear}{2007}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Der Stellenabbau in Westeuropa zugunsten kostengünstigerer Standorte wird von der Diskussion über Produktionsverlagerungen und Outsourcing begleitet. In der Praxis überdeckte jedoch der starke Kostenbezug bei Offshoring- und Outsourcing-Entscheidungen wichtige Aspekte bei der Gestaltung inner- und überbetrieblicher Wertschöpfungsketten, wie beispielsweise Rückverlagerungen und Re-Insourcing-Aktivitäten belegen. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Die Beiträge dieses Tagungsbandes thematisieren die Gestaltung von Wertschöpfungsketten und bieten Anregungen zu breiter angelegten Überlegungen bei der Standortwahl, wobei die wichtigen Aspekte bei strategischen Entscheidungen über Verlagerungen berücksichtigt werden. Prof. Dr.-Ing. habil. Dieter Specht ist Leiter des Lehrstuhls für Produktionswirtschaft an der Technischen Universität in Cottbus.}
-      \field{edition}{1. Aufl.}
-      \field{isbn}{978-3-8350-0830-4}
-      \field{series}{Beiträge zur Produktionswirtschaft}
-      \field{title}{Insourcing, Outsourcing, Offshoring}
-      \field{volume}{v.356}
-      \field{year}{2007}
     \endentry
     \entry{Specht.2007b}{incollection}{}
       \name{author}{2}{}{%
