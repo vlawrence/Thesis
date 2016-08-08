@@ -1,4 +1,4 @@
-﻿% This file was created with Citavi 5.3.1.0
+% Encoding: UTF-8
 
 @book{Abraham.2010,
  abstract = {As the structure of the economy has changed over the past few decades, researchers and policy makers have been increasingly concerned with how these changes affect workers. In this book, leading economists examine a variety of important trends in the new economy, including inequality of earnings and other forms of compensation, job security, employer reliance on temporary and contract workers, hours of work, and workplace safety and health.In order to better understand these vital issues, scholars must be able to accurately measure labor market activity. Thus, Labor in the New Economy also add},
@@ -239,15 +239,13 @@ Die Beitr{\"a}ge dieses Tagungsbandes thematisieren die Gestaltung von Wertsch{\
  editor = {Sprague, Ralph H.}
 }
 
-
-@misc{StatistischesBundesamt.2008,
- author = {{Statistisches Bundesamt}},
- year = {2008},
- title = {Verlagerung wirtschaftlicher Aktivit{\"a}ten: Ergebnisse der Piloterhebung},
- url = {https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/VerlagerungAktivitaeten5529301069004.pdf?__blob=publicationFile},
- keywords = {Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen},
- address = {Wiesbaden},
- urldate = {2016-08-08}
+@Online{StatistischesBundesamt.2008,
+  author   = {{Statistisches Bundesamt}},
+  title    = {Verlagerung wirtschaftlicher Aktivit{\"a}ten: Ergebnisse der Piloterhebung},
+  year     = {2008},
+  keywords = {Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen},
+  url      = {https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/VerlagerungAktivitaeten5529301069004.pdf?__blob=publicationFile},
+  urldate  = {08.08.2016},
 }
 
 
@@ -613,4 +611,4 @@ Unternehmen lassen verst{\"a}rkt zentrale Leistungen wie IT, Finanz- und Rechnun
  doi = {10.1016/j.respol.2015.12.005}
 }
 
-
+@Comment{jabref-meta: databaseType:bibtex;}

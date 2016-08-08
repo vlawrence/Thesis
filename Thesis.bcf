@@ -2059,17 +2059,26 @@
     <bcf:citekey order="8">Alebrand.2013</bcf:citekey>
     <bcf:citekey order="9">Andersson.2016</bcf:citekey>
     <bcf:citekey order="10">Specht.2007b</bcf:citekey>
-    <bcf:citekey order="11">Antras.2004</bcf:citekey>
+    <bcf:citekey order="11">Specht.2007b</bcf:citekey>
     <bcf:citekey order="12">Antras.2004</bcf:citekey>
-    <bcf:citekey order="13">Sachs.1995</bcf:citekey>
-    <bcf:citekey order="14">Sachs.1995</bcf:citekey>
-    <bcf:citekey order="15">Sachs.1995</bcf:citekey>
-    <bcf:citekey order="16">Hutzschenreuter.2007</bcf:citekey>
-    <bcf:citekey order="17">Jahns.2007</bcf:citekey>
-    <bcf:citekey order="18">Hutzschenreuter.2007</bcf:citekey>
-    <bcf:citekey order="19">Hutzschenreuter.2007</bcf:citekey>
-    <bcf:citekey order="20">Jahns.2007</bcf:citekey>
+    <bcf:citekey order="13">Antras.2004</bcf:citekey>
+    <bcf:citekey order="14">Jahns.2007</bcf:citekey>
+    <bcf:citekey order="15">Cappallo.2006</bcf:citekey>
+    <bcf:citekey order="16">Dressler.2007</bcf:citekey>
+    <bcf:citekey order="17">Sachs.1995</bcf:citekey>
+    <bcf:citekey order="18">Sachs.1995</bcf:citekey>
+    <bcf:citekey order="19">Sachs.1995</bcf:citekey>
+    <bcf:citekey order="20">Hutzschenreuter.2007</bcf:citekey>
     <bcf:citekey order="21">Jahns.2007</bcf:citekey>
+    <bcf:citekey order="22">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="23">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="24">Jahns.2007</bcf:citekey>
+    <bcf:citekey order="25">Jahns.2007</bcf:citekey>
+    <bcf:citekey order="26">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="27">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="28">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="29">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="30">StatistischesBundesamt.2008</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

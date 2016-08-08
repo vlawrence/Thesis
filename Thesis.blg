@@ -1,15 +1,15 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
 [0] Config.pm:343> INFO - Logfile is 'Thesis.blg'
-[48] biber-MSWIN32:287> INFO - === 
-[71] Biber.pm:347> INFO - Reading 'Thesis.bcf'
-[202] Biber.pm:741> INFO - Found 12 citekeys in bib section 0
-[219] Biber.pm:3150> INFO - Processing section 0
-[290] Biber.pm:3307> INFO - Looking for bibtex format file 'Literatur.bib' for section 0
-[300] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
-[308] bibtex.pm:985> INFO - Found BibTeX data source 'Literatur.bib'
-[673] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[673] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[673] Biber.pm:3027> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[673] Biber.pm:3031> INFO - No sort tailoring available for locale 'en-US'
-[709] bbl.pm:519> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[712] bbl.pm:615> INFO - Output to Thesis.bbl
+[49] biber-MSWIN32:287> INFO - === 
+[69] Biber.pm:347> INFO - Reading 'Thesis.bcf'
+[201] Biber.pm:741> INFO - Found 16 citekeys in bib section 0
+[218] Biber.pm:3150> INFO - Processing section 0
+[287] Biber.pm:3307> INFO - Looking for bibtex format file 'Literatur.bib' for section 0
+[297] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
+[305] bibtex.pm:985> INFO - Found BibTeX data source 'Literatur.bib'
+[764] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[764] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[765] Biber.pm:3027> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[765] Biber.pm:3031> INFO - No sort tailoring available for locale 'en-US'
+[813] bbl.pm:519> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[817] bbl.pm:615> INFO - Output to Thesis.bbl

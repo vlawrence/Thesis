@@ -8,78 +8,72 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{List of Tables}{2}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{List of Acronyms}{3}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Offshoring in literature}{4}{section.2}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Definition and Terms}{4}{subsection.2.1}
+\contentsline {section}{\numberline {2}Offshoring in Literature}{5}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.1}Definition and Terms}{5}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and historical developments}{5}{section*.4}
+\contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{6}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Information and Communication Technology}{6}{section*.5}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{7}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Organizational Factors}{6}{section*.6}
+\contentsline {paragraph}{\nonumberline Information and Communication Technology}{7}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{6}{section*.7}
+\contentsline {paragraph}{\nonumberline Organizational Factors}{7}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{7}{subsection.2.3}
+\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{8}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1}Prevalence}{7}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{8}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2}Offshoring functions}{7}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{8}{subsection.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{9}{subsection.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.1}Prevalence}{7}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.5.1}Maturity of Offshoring}{9}{subsubsection.2.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.2}Offshored functions}{7}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.5.2}Difference 2}{9}{subsubsection.2.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Significant differences between Germany and the USA}{7}{subsection.2.5}
+\contentsline {section}{\numberline {3}Case Studies}{10}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.1}Difference 1}{7}{subsubsection.2.5.1}
+\contentsline {subsection}{\numberline {3.1}Interview Technique}{10}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2}Difference 2}{7}{subsubsection.2.5.2}
+\contentsline {paragraph}{\nonumberline Identify experts}{10}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Case Studies}{8}{section.3}
+\contentsline {paragraph}{\nonumberline Contact experts}{10}{section*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Interview Technique}{8}{subsection.3.1}
+\contentsline {paragraph}{\nonumberline Negotiate date}{11}{section*.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Identify experts}{8}{section*.8}
+\contentsline {paragraph}{\nonumberline Conduct interview}{11}{section*.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Contact experts}{8}{section*.9}
+\contentsline {paragraph}{\nonumberline Evaluate interview}{11}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Negotiate date}{9}{section*.10}
+\contentsline {paragraph}{\nonumberline Abstract interview}{11}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Conduct interview}{9}{section*.11}
+\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{11}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Evaluate interview}{9}{section*.12}
+\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{12}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Abstract interview}{9}{section*.13}
+\contentsline {subsubsection}{\numberline {3.2.1}Background}{12}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{9}{section*.14}
+\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{12}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{10}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{12}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Background}{10}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Case study Title 2}{12}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{10}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.3.1}Background}{12}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{10}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{12}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Case study Title 2}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{12}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Background}{10}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{12}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{10}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{13}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{10}{subsubsection.3.3.3}
+\contentsline {section}{References}{14}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{10}{subsection.3.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{11}{section.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{12}{section.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{13}{section*.16}
+\contentsline {section}{Appendix}{16}{section*.22}

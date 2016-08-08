@@ -12,10 +12,10 @@ captions=tableheading]{scrartcl}
 \usepackage[linktocpage=true]{hyperref}
 \usepackage{tabularx}
 \usepackage{amsmath}
-\usepackage[backend=biber,style=authoryear,sortcites=false,citestyle=authoryear]{biblatex}
-\bibliography{Literatur.bib}%Dateiname für Quellen einfügen
+\usepackage[backend=biber,style=authoryear,sortcites=false,citestyle=authoryear,url=true,natbib=true]{biblatex}
+\addbibresource{Literatur.bib}%Dateiname für Quellen einfügen
 \usepackage{ragged2e} %für bessere URL formatierung bei printbibliography
-
+\usepackage[printonlyused, withpage]{acronym}
 %Bilder einbinden und es ermöglich auf der gleichen seite ein
 %Fußnotenzitat einzufügen
 \usepackage{graphicx}
@@ -60,7 +60,16 @@ captions=tableheading]{scrartcl}
 \begin{document}
 \pagenumbering{gobble}
 \firstpages
-
+\newpage
+\section*{List of Acronyms}
+\addcontentsline{toc}{section}{List of Acronyms}
+\begin{acronym}
+	\acro{FDI}{Foreign Direct Investment}
+	\acro{NAFTA}{North American Free Trade Agreement}
+	\acro{WTO}{World Trade Organization}
+	\acro{EEC}{European Economic Community}
+	\acro{ICT}{Information and Communication Technology}
+\end{acronym}
 
 \include{1_Introduction}
 
