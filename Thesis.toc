@@ -42,7 +42,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Identify experts}{10}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Contact experts}{10}{section*.15}
+\contentsline {paragraph}{\nonumberline Contact experts}{11}{section*.15}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Negotiate date}{11}{section*.16}
 \defcounter {refsection}{0}\relax 
