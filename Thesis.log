@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  10 AUG 2016 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  10 AUG 2016 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1152,7 +1152,7 @@ although it is yet undefined on input line 45.
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=293, 755.82375pt x 491.58656pt>
+<Pictures/Interview_process.jpg, id=296, 755.82375pt x 491.58656pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
@@ -1301,8 +1301,8 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 15259 strings out of 493027
- 247856 string characters out of 6131332
+ 15260 strings out of 493027
+ 247867 string characters out of 6131332
  763792 words of memory out of 5000000
  18455 multiletter control sequences out of 15000+600000
  11196 words of font info for 41 fonts, out of 8000000 for 9000
@@ -1321,10 +1321,10 @@ type1/public/amsfonts/cm/cmssbx10.pfb><d:/Program Files/texlive/2015/texmf-dist
 -dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Thesis.pdf (21 pages, 277124 bytes).
+Output written on Thesis.pdf (21 pages, 277908 bytes).
 PDF statistics:
- 438 PDF objects out of 1000 (max. 8388607)
- 396 compressed objects within 4 object streams
- 107 named destinations out of 1000 (max. 500000)
+ 441 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 108 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
