@@ -394,6 +394,36 @@
       \field{pages}{1\bibrangedash 30}
       \range{pages}{30}
     \endentry
+    \entry{Kozlow.2006}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a0c374907dd7d6e7b92ea83717fb8cb3}{%
+           family={Kozlow},
+           family_i={K\bibinitperiod},
+           given={Ralph},
+           given_i={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ece072974079563edf043cfbfb157376}{%
+           family={{Bureau\bibnamedelimb of\bibnamedelimb Economic\bibnamedelimb Analysis}},
+           family_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0c374907dd7d6e7b92ea83717fb8cb3}
+      \strng{fullhash}{a0c374907dd7d6e7b92ea83717fb8cb3}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Globalization, Offshoring, and Multinational Companies: What Are the Questions, and How Well Are We Doing in Answering Them?}
+      \field{urlday}{11}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://bea.gov/papers/pdf/06AEAMNCpaperFinal.pdf
+      \endverb
+    \endentry
     \entry{Pedersen.2013}{book}{}
       \name{editor}{4}{}{%
         {{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{%
@@ -438,6 +468,40 @@
       \verb{doi}
       \verb 10.1007/978-1-4471-4908-8
       \endverb
+    \endentry
+    \entry{Pisani.2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4b0a160c05ed36269712dddce4113c46}{%
+           family={Pisani},
+           family_i={P\bibinitperiod},
+           given={Niccolò},
+           given_i={N\bibinitperiod}}}%
+        {{uniquename=0,hash=bb447cb4686fc46bc971781df4d34b10}{%
+           family={Ricart},
+           family_i={R\bibinitperiod},
+           given={Joan\bibnamedelima Enric},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0747844c5ba7ae982dc3396512397a2}
+      \strng{fullhash}{a0747844c5ba7ae982dc3396512397a2}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0938-8249}
+      \field{journaltitle}{Management International Review}
+      \field{number}{3}
+      \field{title}{Offshoring of Services: A Review of the Literature and Organizing Framework}
+      \field{volume}{56}
+      \field{year}{2016}
+      \field{pages}{385\bibrangedash 424}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/s11575-015-0270-7
+      \endverb
+      \keyw{Offshoring of services Services relocation Offshore outsourcing Globally distributed work Systematic review}
     \endentry
     \entry{Rottman.2008}{article}{}
       \name{author}{2}{}{%

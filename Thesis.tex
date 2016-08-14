@@ -23,6 +23,16 @@ captions=tableheading]{scrartcl}
 \usepackage{afterpage}
 \interfootnotelinepenalty=99999 %Seitenumbruch einer Fußzeile verhindern
 
+\newcommand{\bildcite}[5]{
+	\begin{figure}[htb]
+		\centering
+		\includegraphics[width=#5\textwidth]{Pictures/#1}
+		\caption[#2]{#2\footnotemark}
+		\label{#3}
+	\end{figure}
+	\footnotetext{#4}
+}
+
 \usepackage{longtable}
 \usepackage{moreverb} %tabulator formatierung in verbatim umgebung
 
@@ -72,6 +82,8 @@ captions=tableheading]{scrartcl}
 	\acro{ICT}{Information and Communication Technology}
 	\acro{SLA}{Service Level Agreement}
 	\acro{KPI}{Key Performance Indicator}
+	\acro{MNE}{Multinational Enterprise}
+	\acro{BEA}{Bureau of Economoc Analysis}
 \end{acronym}
 
 \include{1_Introduction}
