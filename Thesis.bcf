@@ -2078,11 +2078,13 @@
     <bcf:citekey order="27">Pisani.2016</bcf:citekey>
     <bcf:citekey order="28">Kozlow.2006</bcf:citekey>
     <bcf:citekey order="29">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="30">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="30">Kimmel.2005</bcf:citekey>
     <bcf:citekey order="31">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="32">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="32">Eickelpasch.2015</bcf:citekey>
     <bcf:citekey order="33">StatistischesBundesamt.2008</bcf:citekey>
     <bcf:citekey order="34">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="35">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="36">Hutzschenreuter.2007</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

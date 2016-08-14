@@ -356,6 +356,36 @@
       \field{pages}{85\bibrangedash 106}
       \range{pages}{22}
     \endentry
+    \entry{Kimmel.2005}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c1c259a26bd4cb0cd771603c55191ed9}{%
+           family={Kimmel},
+           family_i={K\bibinitperiod},
+           given={Elke},
+           given_i={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=615f1632bbc16b69ccc141f620a844b9}{%
+           family={{Bundeszentrale\bibnamedelimb für\bibnamedelimb politische\bibnamedelimb Bildung}},
+           family_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1c259a26bd4cb0cd771603c55191ed9}
+      \strng{fullhash}{c1c259a26bd4cb0cd771603c55191ed9}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundzüge des Marshallplans: Eine Einleitung}
+      \field{urlday}{14}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://www.bpb.de/geschichte/deutsche-geschichte/marshallplan/40034/einleitung
+      \endverb
+    \endentry
     \entry{Knolmayer.2007}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=0c7115ac1d9612709e7cb9cb6310b474}{%
