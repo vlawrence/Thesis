@@ -665,6 +665,126 @@
       \endverb
       \keyw{Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen}
     \endentry
+    \entry{Winkler.1994}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d41ce1155f63e35181ae3d3e12b51d43}{%
+           family={Winkler},
+           family_i={W\bibinitperiod},
+           given={Alan},
+           given_i={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3f634df056dadc8da39db0e6a930581e}{%
+           family={Cincotta},
+           family_i={C\bibinitperiod},
+           given={Howard},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[S.l.]}%
+      }
+      \list{publisher}{1}{%
+        {United States Information Agency}%
+      }
+      \strng{namehash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \strng{fullhash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extrayear}{1}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{An outline of American history}
+      \field{title}{Decades of Change}
+      \field{urlday}{16}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{1994}
+      \verb{url}
+      \verb http://usa.usembassy.de/etexts/history/ch12.htm
+      \endverb
+    \endentry
+    \entry{Winkler.1994b}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d41ce1155f63e35181ae3d3e12b51d43}{%
+           family={Winkler},
+           family_i={W\bibinitperiod},
+           given={Alan},
+           given_i={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3f634df056dadc8da39db0e6a930581e}{%
+           family={Cincotta},
+           family_i={C\bibinitperiod},
+           given={Howard},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[S.l.]}%
+      }
+      \list{publisher}{1}{%
+        {United States Information Agency}%
+      }
+      \strng{namehash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \strng{fullhash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extrayear}{2}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{An outline of American history}
+      \field{title}{Postwar America}
+      \field{urlday}{16}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{1994}
+      \verb{url}
+      \verb http://usa.usembassy.de/etexts/history/ch11.htm
+      \endverb
+    \endentry
+    \entry{Winkler.1994c}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d41ce1155f63e35181ae3d3e12b51d43}{%
+           family={Winkler},
+           family_i={W\bibinitperiod},
+           given={Alan},
+           given_i={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3f634df056dadc8da39db0e6a930581e}{%
+           family={Cincotta},
+           family_i={C\bibinitperiod},
+           given={Howard},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[S.l.]}%
+      }
+      \list{publisher}{1}{%
+        {United States Information Agency}%
+      }
+      \strng{namehash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \strng{fullhash}{d41ce1155f63e35181ae3d3e12b51d43}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extrayear}{3}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{An outline of American history}
+      \field{title}{Toward the 21st Century}
+      \field{urlday}{16}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{1994}
+      \verb{url}
+      \verb http://usa.usembassy.de/etexts/history/ch13.htm
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput
