@@ -15,7 +15,11 @@ captions=tableheading]{scrartcl}
 \usepackage[backend=biber,style=authoryear,sortcites=false,citestyle=authoryear,url=true,natbib=true]{biblatex}
 \addbibresource{Literatur.bib}%Dateiname für Quellen einfügen
 \usepackage{ragged2e} %für bessere URL formatierung bei printbibliography
-\usepackage[printonlyused, withpage]{acronym}
+\usepackage{glossaries}
+\setacronymstyle{long-short}
+%\GlsSetQuote{+}
+\makenoidxglossaries
+\loadglsentries{acronyms}
 %Bilder einbinden und es ermöglich auf der gleichen seite ein
 %Fußnotenzitat einzufügen
 \usepackage{graphicx}
@@ -72,24 +76,8 @@ captions=tableheading]{scrartcl}
 \pagenumbering{gobble}
 \firstpages
 \newpage
-\section*{List of Acronyms}
 \addcontentsline{toc}{section}{List of Acronyms}
-\begin{acronym}
-	\acro{FDI}{Foreign Direct Investment}
-	\acro{WWII}{Second World War}
-	\acro{NAFTA}{North American Free Trade Agreement}
-	\acro{WTO}{World Trade Organization}
-	\acro{EEC}{European Economic Community}
-	\acro{ICT}{Information and Communication Technology}
-	\acro{GDR}{German Democratic Republic}
-	\acro{FRG}{Federal Republic of Germany}
-	\acro{SME}{Small and Medium Enterprise}
-	\acro{SLA}{Service Level Agreement}
-	\acro{KPI}{Key Performance Indicator}
-	\acro{MNE}{Multinational Enterprise}
-	\acro{BEA}{Bureau of Economoc Analysis}
-	\acro{GDP}{Gross Domestic Product}
-\end{acronym}
+\printnoidxglossary[type=\acronymtype,title={List of Acronyms},sort=use, nogroupskip=true, nopostdot=true]
 
 \include{1_Introduction}
 
