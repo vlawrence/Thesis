@@ -18,17 +18,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{6}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and Historical Developments}{7}{section*.6}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{6}{section*.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Information and Communication Technology}{7}{section*.11}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Organizational Factors}{7}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{8}{section*.14}
+\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{7}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{8}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{7}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and Historical Developments}{8}{section*.15}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{7}{section*.15}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Offshoring Quantified}{8}{section*.16}
 \defcounter {refsection}{0}\relax 
@@ -36,9 +36,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Political and Historical Developments}{9}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring Quantified}{10}{section*.21}
+\contentsline {paragraph}{\nonumberline Offshoring Quantified}{9}{section*.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{9}{subsection.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.5.1}Maturity of Offshoring}{10}{subsubsection.2.5.1}
 \defcounter {refsection}{0}\relax 
@@ -82,6 +82,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Conclusions and Limitations}{14}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{15}{section.4}
+\contentsline {section}{Appendix}{15}{section*.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{17}{section*.31}
+\contentsline {section}{References}{15}{section.4}
