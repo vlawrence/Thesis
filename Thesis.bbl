@@ -454,6 +454,71 @@
       \verb http://bea.gov/papers/pdf/06AEAMNCpaperFinal.pdf
       \endverb
     \endentry
+    \entry{Leiner.2003}{misc}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,hash=3bb5fd9502b82fb406301d462a759b1b}{%
+           family={Leiner},
+           family_i={L\bibinitperiod},
+           given={Barry\bibnamedelima M.},
+           given_i={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=af181081abf43ceebd443f77b31f4468}{%
+           family={Cerf},
+           family_i={C\bibinitperiod},
+           given={Vinton\bibnamedelima G.},
+           given_i={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{uniquename=0,hash=8e2cdf62d38ae24207c9bf50e99db09d}{%
+           family={Clarc},
+           family_i={C\bibinitperiod},
+           given={David\bibnamedelima D.},
+           given_i={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{uniquename=0,hash=b710044fb92eb186a9aceb3714c2b1e4}{%
+           family={Kahn},
+           family_i={K\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           given_i={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=47c1188eedb30600041974fc94c19e96}{%
+           family={Kleinrock},
+           family_i={K\bibinitperiod},
+           given={Leonard},
+           given_i={L\bibinitperiod}}}%
+        {{uniquename=0,hash=e27d2fc28b5d4279598b537c590559f1}{%
+           family={Lynch},
+           family_i={L\bibinitperiod},
+           given={Daniel\bibnamedelima C.},
+           given_i={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{uniquename=0,hash=02b8dba2b9241ee3cbe59775cce0328d}{%
+           family={Postel},
+           family_i={P\bibinitperiod},
+           given={Jon},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=4df542b28ef4f7c17abd3784ece6a6a6}{%
+           family={Roberts},
+           family_i={R\bibinitperiod},
+           given={Larry\bibnamedelima G.},
+           given_i={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{uniquename=0,hash=4bf48ab6dad56b876dfa0ac6ab76a030}{%
+           family={Wolff},
+           family_i={W\bibinitperiod},
+           given={Stephen},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{15fa40bea445aa4d9008a5b7c0474e25}
+      \strng{fullhash}{f6ac152148c081e9f8e654de22625bb6}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Brief History of the Internet}
+      \field{urlday}{18}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2003}
+      \verb{url}
+      \verb http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
+      \endverb
+    \endentry
     \entry{Pedersen.2013}{book}{}
       \name{editor}{4}{}{%
         {{uniquename=0,hash=109e01b5c0b6c68077a6610fc4417e4e}{%

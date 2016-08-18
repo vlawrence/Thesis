@@ -2074,20 +2074,23 @@
     <bcf:citekey order="23">Hutzschenreuter.2007</bcf:citekey>
     <bcf:citekey order="24">Jahns.2007</bcf:citekey>
     <bcf:citekey order="25">Jahns.2007</bcf:citekey>
-    <bcf:citekey order="26">Winkler.1994b</bcf:citekey>
-    <bcf:citekey order="27">Winkler.1994</bcf:citekey>
-    <bcf:citekey order="28">Winkler.1994c</bcf:citekey>
-    <bcf:citekey order="29">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="30">Pisani.2016</bcf:citekey>
-    <bcf:citekey order="31">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="32">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="33">Kimmel.2005</bcf:citekey>
-    <bcf:citekey order="34">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="35">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="36">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="37">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="38">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="39">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="26">Kozlow.2006</bcf:citekey>
+    <bcf:citekey order="27">Winkler.1994b</bcf:citekey>
+    <bcf:citekey order="28">Leiner.2003</bcf:citekey>
+    <bcf:citekey order="29">Winkler.1994</bcf:citekey>
+    <bcf:citekey order="30">Winkler.1994c</bcf:citekey>
+    <bcf:citekey order="31">Winkler.1994c</bcf:citekey>
+    <bcf:citekey order="32">Winkler.1994c</bcf:citekey>
+    <bcf:citekey order="33">Pisani.2016</bcf:citekey>
+    <bcf:citekey order="34">Kozlow.2006</bcf:citekey>
+    <bcf:citekey order="35">Kozlow.2006</bcf:citekey>
+    <bcf:citekey order="36">Kimmel.2005</bcf:citekey>
+    <bcf:citekey order="37">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="38">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="39">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="40">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="41">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="42">Hutzschenreuter.2007</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>
