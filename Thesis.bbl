@@ -147,6 +147,29 @@
       \field{pages}{487\bibrangedash 488}
       \range{pages}{2}
     \endentry
+    \entry{CentralIntelligenceAgency.20160719}{misc}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=93d743bf73f0763a33fe39175e447e1c}{%
+           family={{Central\bibnamedelimb Intelligence\bibnamedelimb Agency}},
+           family_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d743bf73f0763a33fe39175e447e1c}
+      \strng{fullhash}{93d743bf73f0763a33fe39175e447e1c}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The World Factbook: North America:~The United States}
+      \field{urlday}{20}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.cia.gov/library/publications/the-world-factbook/geos/us.html
+      \endverb
+    \endentry
     \entry{Dressler.2007}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=e853d4754089e537470d0eea69fe9478}{%

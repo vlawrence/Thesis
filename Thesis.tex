@@ -12,6 +12,7 @@ captions=tableheading]{scrartcl}
 \usepackage[linktocpage=true]{hyperref}
 \usepackage{tabularx}
 \usepackage{amsmath}
+\usepackage{eurosym}
 \usepackage[backend=biber,style=authoryear,sortcites=false,citestyle=authoryear,url=true,natbib=true]{biblatex}
 \addbibresource{Literatur.bib}%Dateiname für Quellen einfügen
 \usepackage{ragged2e} %für bessere URL formatierung bei printbibliography
@@ -31,6 +32,7 @@ captions=tableheading]{scrartcl}
 	\begin{figure}[htb]
 		\centering
 		\includegraphics[width=#5\textwidth]{Pictures/#1}
+		\vspace{2mm}
 		\caption[#2]{#2\footnotemark}
 		\label{#3}
 	\end{figure}

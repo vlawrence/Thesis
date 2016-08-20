@@ -1,4 +1,4 @@
-% Encoding: UTF-8
+﻿% This file was created with Citavi 5.3.1.0
 
 @book{Abraham.2010,
  abstract = {As the structure of the economy has changed over the past few decades, researchers and policy makers have been increasingly concerned with how these changes affect workers. In this book, leading economists examine a variety of important trends in the new economy, including inequality of earnings and other forms of compensation, job security, employer reliance on temporary and contract workers, hours of work, and workplace safety and health.In order to better understand these vital issues, scholars must be able to accurately measure labor market activity. Thus, Labor in the New Economy also add},
@@ -13,29 +13,13 @@
 }
 
 
-@article{Kirkegaard.2005,
- author = {Kirkegaard, Jacob F.},
- year = {2005},
- title = {Outsourcing and Offshoring: Pushing the European Model Over the Hill, Rather than Off the Cliff!},
- keywords = {European Union;Labor Markets;Multinational Companies;offshoring;outsourcing;Public Regulation;Regional Aid},
- issn = {1556-5068},
- journal = {SSRN Electronic Journal},
- doi = {10.2139/ssrn.688183}
-}
-
-
-@incollection{Knolmayer.2007,
- author = {Knolmayer, Gerhard F.},
- title = {Sourcing-Entscheidungen aus den Perspektiven des Produktions- und Informationsmanagement},
- pages = {1--30},
- volume = {v.356},
- publisher = {{DUV Deutscher Universit{\"a}ts-Verlag}},
- isbn = {978-3-8350-0830-4},
- series = {Beitr{\"a}ge zur Produktionswirtschaft},
- editor = {Specht, Dieter},
- booktitle = {Insourcing, Outsourcing, Offshoring},
- year = {2007},
- address = {s.l.}
+@misc{Kozlow.2006,
+ author = {Kozlow, Ralph},
+ editor = {{Bureau of Economic Analysis}},
+ year = {2006},
+ title = {Globalization, Offshoring, and Multinational Companies: What Are the Questions, and How Well Are We Doing in Answering Them?},
+ url = {http://bea.gov/papers/pdf/06AEAMNCpaperFinal.pdf},
+ urldate = {2016-08-11}
 }
 
 
@@ -49,6 +33,15 @@
  issn = {0019-7939},
  journal = {ILR Review},
  doi = {10.1177/0019793915619903}
+}
+
+
+@misc{Leiner.2003,
+ author = {Leiner, Barry M. and Cerf, Vinton G. and Clarc, David D. and Kahn, Robert E. and Kleinrock, Leonard and Lynch, Daniel C. and Postel, Jon and Roberts, Larry G. and Wolff, Stephen},
+ year = {2003},
+ title = {Brief History of the Internet},
+ url = {http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet},
+ urldate = {2016-08-18}
 }
 
 
@@ -134,18 +127,6 @@
 }
 
 
-@incollection{Khan.2003,
- author = {Khan, Naureen and Currie, Wendy L. and Weerakkody, Visanth and Desai, Bhavini},
- title = {Evaluating Offshore IT~Outsourcing in India:~Supplier and Customer Scenarios},
- publisher = {{IEEE Computer Soc}},
- isbn = {978-0-7695-1874-9},
- editor = {Sprague, Ralph H.},
- booktitle = {Proceedings of the 36th Annual Hawaii International Conference on System Sciences},
- year = {2003},
- address = {Los Alamitos, Calif.}
-}
-
-
 @book{Rubin.2012,
  author = {Rubin, Herbert J.},
  year = {2012},
@@ -154,6 +135,32 @@
  edition = {3},
  publisher = {Sage},
  isbn = {978-1-4129-7837-8}
+}
+
+
+@article{Sachs.1995,
+ abstract = {CiteSeerX - Document Details (Isaac Councill, Lee Giles, Pradeep Teregowda): world economy roughly accorded with the idea of three distinct economic systems: a capitalist first world, a socialist second world, and a developing third world which aimed for a middle way between the first two. The third world was characterized not only by its low levels of per capita GDP, but also by a distinctive economic system that assigned the state sector the predominant role in industrialization, although not the monopoly on industrial ownership as in the socialist economies. The years between 1970 and 1995, and especially the last decade, have witnessed the most remarkable institutional harmonization and economic integration among nations in world history. While economic integration was increasing throughout the 1970s and 1980s, the extent of integration has come sharply into focus only since the collapse of communism in 1989. In 1995 one dominant global economic system is emerging. The common set of institutions is exemplified by the new World Trade Organization (WTO), which was established by agreement of},
+ author = {Sachs, Jeffrey D. and Warner, Andrew},
+ year = {1995},
+ title = {Economic Reform and the Process of Global Integration},
+ pages = {1--118},
+ volume = {1},
+ journal = {Brookings Papers on Economic Activity}
+}
+
+
+@incollection{Knolmayer.2007,
+ author = {Knolmayer, Gerhard F.},
+ title = {Sourcing-Entscheidungen aus den Perspektiven des Produktions- und Informationsmanagement},
+ pages = {1--30},
+ volume = {v.356},
+ publisher = {{DUV Deutscher Universit{\"a}ts-Verlag}},
+ isbn = {978-3-8350-0830-4},
+ series = {Beitr{\"a}ge zur Produktionswirtschaft},
+ editor = {Specht, Dieter},
+ booktitle = {Insourcing, Outsourcing, Offshoring},
+ year = {2007},
+ address = {s.l.}
 }
 
 
@@ -170,19 +177,6 @@
 }
 
 
-@book{Schumacher.2005,
- abstract = {Customer Relationship Management (CRM) wurde in der j{\"u}ngsten Vergangenheit in zahlreichen Unternehmen zur Verbesserung der Kundenbeziehungen eingef{\"u}hrt. Alternativ zur Eigenerstellung besteht f{\"u}r Unternehmen die M{\"o}glichkeit, Prozesse oder Teilprozesse des CRM an externe Dienstleister fremdzuvergeben (Prozess-Outsourcing). F{\"u}r eine unternehmens{\"u}bergreifende Zusammenarbeit, wie sie beim Outsourcing von Gesch{\"a}ftsprozessen besteht, bieten moderne IuK-Technologien, insbesondere das Internet, innovative M{\"o}glichkeiten. J{\"o}rg Schumacher untersucht die Voraussetzungen f{\"u}r ein erfolgreiches Outsourcing von CRM-Prozessen und erl{\"a}utert wesentliche Aspekte der Entscheidungsfindung. Er zeigt exemplarische Einsatzm{\"o}glichkeiten auf und wendet diese auf den Fall des Outsourcing an Betreiber von elektronischen Marktpl{\"a}tzen an. Die Ergebnisse werden durch verschiedene Studien {\"u}berpr{\"u}ft und anhand eines praxisnahen Fallbeispiels veranschaulicht},
- author = {Schumacher, J{\"o}rg},
- year = {2005},
- title = {Outsourcing von CRM-Prozessen: Voraussetzungen, Chancen, innovative Einsatzm{\"o}glichkeiten im elektronischen B2B-Markt},
- address = {Wiesbaden and s.l.},
- publisher = {{Deutscher Universit{\"a}tsverlag}},
- isbn = {978-3-8350-0153-4},
- series = {Wirtschaftsinformatik},
- doi = {10.1007/978-3-322-82164-5}
-}
-
-
 @article{Smite.2015,
  author = {Smite, Darja and Calefato, Fabio and Wohlin, Claes},
  year = {2015},
@@ -193,6 +187,17 @@
  issn = {0740-7459},
  journal = {IEEE Software},
  doi = {10.1109/MS.2015.102}
+}
+
+
+@article{Sollner.2014,
+ author = {S{\"o}llner, Ren{\'e}},
+ year = {2014},
+ title = {Die wirtschaftliche Bedeutung kleiner und mittlerer Unternehmen in Deutschland},
+ url = {https://www.destatis.de/DE/Publikationen/WirtschaftStatistik/UnternehmenGewerbeanzeigen/BedeutungKleinerMittlererUnternehmen_12014.pdf?__blob=publicationFile},
+ urldate = {2016-08-19},
+ pages = {40--51},
+ journal = {Statistisches Bundesamt, Wirtschaft und Statistik}
 }
 
 
@@ -239,13 +244,15 @@ Die Beitr{\"a}ge dieses Tagungsbandes thematisieren die Gestaltung von Wertsch{\
  editor = {Sprague, Ralph H.}
 }
 
-@Online{StatistischesBundesamt.2008,
-  author   = {{Statistisches Bundesamt}},
-  title    = {Verlagerung wirtschaftlicher Aktivit{\"a}ten: Ergebnisse der Piloterhebung},
-  year     = {2008},
-  keywords = {Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen},
-  url      = {https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/VerlagerungAktivitaeten5529301069004.pdf?__blob=publicationFile},
-  urldate  = {08.08.2016},
+
+@misc{StatistischesBundesamt.2008,
+ author = {{Statistisches Bundesamt}},
+ year = {2008},
+ title = {Verlagerung wirtschaftlicher Aktivit{\"a}ten: Ergebnisse der Piloterhebung},
+ url = {https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/VerlagerungAktivitaeten5529301069004.pdf?__blob=publicationFile},
+ keywords = {Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen},
+ address = {Wiesbaden},
+ urldate = {2016-08-08}
 }
 
 
@@ -274,54 +281,88 @@ Die Beitr{\"a}ge dieses Tagungsbandes thematisieren die Gestaltung von Wertsch{\
 }
 
 
-@article{Sachs.1995,
- abstract = {CiteSeerX - Document Details (Isaac Councill, Lee Giles, Pradeep Teregowda): world economy roughly accorded with the idea of three distinct economic systems: a capitalist first world, a socialist second world, and a developing third world which aimed for a middle way between the first two. The third world was characterized not only by its low levels of per capita GDP, but also by a distinctive economic system that assigned the state sector the predominant role in industrialization, although not the monopoly on industrial ownership as in the socialist economies. The years between 1970 and 1995, and especially the last decade, have witnessed the most remarkable institutional harmonization and economic integration among nations in world history. While economic integration was increasing throughout the 1970s and 1980s, the extent of integration has come sharply into focus only since the collapse of communism in 1989. In 1995 one dominant global economic system is emerging. The common set of institutions is exemplified by the new World Trade Organization (WTO), which was established by agreement of},
- author = {Sachs, Jeffrey D. and Warner, Andrew},
- year = {1995},
- title = {Economic Reform and the Process of Global Integration},
- pages = {1--118},
- volume = {1},
- journal = {Brookings Papers on Economic Activity}
+@incollection{Winkler.1994,
+ author = {Winkler, Alan},
+ title = {Decades of Change},
+ url = {http://usa.usembassy.de/etexts/history/ch12.htm},
+ urldate = {2016-08-16},
+ publisher = {{United States Information Agency}},
+ editor = {Cincotta, Howard},
+ booktitle = {An outline of American history},
+ year = {1994},
+ address = {[S.l.]}
 }
 
 
-@misc{Winkler.2011,
- author = {Winkler, Deborah and Milberg, William},
- year = {2011},
- title = {Classical and Neoclassical Theories of Offshore Outsourcing},
- url = {http://www.economicpolicyresearch.org/econ/2011/NSSR_WP_132011.pdf},
- urldate = {2016-07-25},
- number = {13}
+@incollection{Winkler.1994b,
+ author = {Winkler, Alan},
+ title = {Postwar America},
+ url = {http://usa.usembassy.de/etexts/history/ch11.htm},
+ urldate = {2016-08-16},
+ publisher = {{United States Information Agency}},
+ editor = {Cincotta, Howard},
+ booktitle = {An outline of American history},
+ year = {1994},
+ address = {[S.l.]}
 }
 
 
-@incollection{Jensen.2010,
- author = {Jensen, J. Bradford and Kletzer, Lori G.},
- title = {Measuring Tradable Services and the Task Content of Offshorable Services Jobs},
- pages = {309--335},
- volume = {v. 71},
- publisher = {{University of Chicago Press}},
- isbn = {978-0-226-00143-2},
- series = {Studies in income and wealth},
- editor = {Abraham, Katharine G. and Spletzer, James and Harper, Michael J.},
- booktitle = {Labor in the new economy},
- year = {2010},
- address = {Chicago and London}
+@incollection{Winkler.1994c,
+ author = {Winkler, Alan},
+ title = {Toward the 21st Century},
+ url = {http://usa.usembassy.de/etexts/history/ch13.htm},
+ urldate = {2016-08-16},
+ publisher = {{United States Information Agency}},
+ editor = {Cincotta, Howard},
+ booktitle = {An outline of American history},
+ year = {1994},
+ address = {[S.l.]}
 }
 
 
-@incollection{Jahns.2007,
- author = {Jahns, Christopher and Hartmann, Evi and Bals, Lydia},
- title = {Offshoring:~Analyse der Hintergr{\"u}nde und Potenziale},
- pages = {85--106},
- volume = {v.356},
- publisher = {{DUV Deutscher Universit{\"a}ts-Verlag}},
- isbn = {978-3-8350-0830-4},
- series = {Beitr{\"a}ge zur Produktionswirtschaft},
- editor = {Specht, Dieter},
- booktitle = {Insourcing, Outsourcing, Offshoring},
- year = {2007},
- address = {s.l.}
+@book{Schumacher.2005,
+ abstract = {Customer Relationship Management (CRM) wurde in der j{\"u}ngsten Vergangenheit in zahlreichen Unternehmen zur Verbesserung der Kundenbeziehungen eingef{\"u}hrt. Alternativ zur Eigenerstellung besteht f{\"u}r Unternehmen die M{\"o}glichkeit, Prozesse oder Teilprozesse des CRM an externe Dienstleister fremdzuvergeben (Prozess-Outsourcing). F{\"u}r eine unternehmens{\"u}bergreifende Zusammenarbeit, wie sie beim Outsourcing von Gesch{\"a}ftsprozessen besteht, bieten moderne IuK-Technologien, insbesondere das Internet, innovative M{\"o}glichkeiten. J{\"o}rg Schumacher untersucht die Voraussetzungen f{\"u}r ein erfolgreiches Outsourcing von CRM-Prozessen und erl{\"a}utert wesentliche Aspekte der Entscheidungsfindung. Er zeigt exemplarische Einsatzm{\"o}glichkeiten auf und wendet diese auf den Fall des Outsourcing an Betreiber von elektronischen Marktpl{\"a}tzen an. Die Ergebnisse werden durch verschiedene Studien {\"u}berpr{\"u}ft und anhand eines praxisnahen Fallbeispiels veranschaulicht},
+ author = {Schumacher, J{\"o}rg},
+ year = {2005},
+ title = {Outsourcing von CRM-Prozessen: Voraussetzungen, Chancen, innovative Einsatzm{\"o}glichkeiten im elektronischen B2B-Markt},
+ address = {Wiesbaden and s.l.},
+ publisher = {{Deutscher Universit{\"a}tsverlag}},
+ isbn = {978-3-8350-0153-4},
+ series = {Wirtschaftsinformatik},
+ doi = {10.1007/978-3-322-82164-5}
+}
+
+
+@article{Kirkegaard.2005,
+ author = {Kirkegaard, Jacob F.},
+ year = {2005},
+ title = {Outsourcing and Offshoring: Pushing the European Model Over the Hill, Rather than Off the Cliff!},
+ keywords = {European Union;Labor Markets;Multinational Companies;offshoring;outsourcing;Public Regulation;Regional Aid},
+ issn = {1556-5068},
+ journal = {SSRN Electronic Journal},
+ doi = {10.2139/ssrn.688183}
+}
+
+
+@misc{Kimmel.2005,
+ author = {Kimmel, Elke},
+ editor = {{Bundeszentrale f{\"u}r politische Bildung}},
+ year = {2005},
+ title = {Grundz{\"u}ge des Marshallplans: Eine Einleitung},
+ url = {http://www.bpb.de/geschichte/deutsche-geschichte/marshallplan/40034/einleitung},
+ urldate = {2016-08-14}
+}
+
+
+@incollection{Khan.2003,
+ author = {Khan, Naureen and Currie, Wendy L. and Weerakkody, Visanth and Desai, Bhavini},
+ title = {Evaluating Offshore IT~Outsourcing in India:~Supplier and Customer Scenarios},
+ publisher = {{IEEE Computer Soc}},
+ isbn = {978-0-7695-1874-9},
+ editor = {Sprague, Ralph H.},
+ booktitle = {Proceedings of the 36th Annual Hawaii International Conference on System Sciences},
+ year = {2003},
+ address = {Los Alamitos, Calif.}
 }
 
 
@@ -446,14 +487,12 @@ Globalization is widely seen as a powerful engine that has the potential to prom
 }
 
 
-@book{Jemili.2011,
- author = {Jemili, Houssem},
- year = {2011},
- title = {Business Process Offshoring},
- address = {Wiesbaden},
- publisher = {Gabler},
- isbn = {978-3-8349-2880-1},
- doi = {10.1007/978-3-8349-6676-6}
+@misc{CentralIntelligenceAgency.20160719,
+ editor = {{Central Intelligence Agency}},
+ year = {2016-07-19},
+ title = {The World Factbook: North America:~The United States},
+ url = {https://www.cia.gov/library/publications/the-world-factbook/geos/us.html},
+ urldate = {2016-08-20}
 }
 
 
@@ -466,6 +505,28 @@ Globalization is widely seen as a powerful engine that has the potential to prom
  issn = {2194-606X},
  journal = {Asia-Pacific Journal of Risk and Insurance},
  doi = {10.1515/apjri-2013-0019}
+}
+
+
+@book{Cincotta.1994,
+ year = {1994},
+ title = {An outline of American history},
+ url = {http://usa.usembassy.de/etexts/history/toc.htm},
+ address = {[S.l.]},
+ urldate = {2016-08-16},
+ publisher = {{United States Information Agency}},
+ editor = {Cincotta, Howard}
+}
+
+
+@book{Dexter.1970,
+ author = {Dexter, Lewis Anthony},
+ year = {1970},
+ title = {Elite and specialized interviewing},
+ address = {Evanston},
+ publisher = {{Northwestern Univ. Press}},
+ isbn = {0810102951},
+ series = {Handbooks for research in political behavior}
 }
 
 
@@ -587,14 +648,54 @@ Unternehmen lassen verst{\"a}rkt zentrale Leistungen wie IT, Finanz- und Rechnun
 }
 
 
-@book{Dexter.1970,
- author = {Dexter, Lewis Anthony},
- year = {1970},
- title = {Elite and specialized interviewing},
- address = {Evanston},
- publisher = {{Northwestern Univ. Press}},
- isbn = {0810102951},
- series = {Handbooks for research in political behavior}
+@incollection{Jahns.2007,
+ author = {Jahns, Christopher and Hartmann, Evi and Bals, Lydia},
+ title = {Offshoring:~Analyse der Hintergr{\"u}nde und Potenziale},
+ pages = {85--106},
+ volume = {v.356},
+ publisher = {{DUV Deutscher Universit{\"a}ts-Verlag}},
+ isbn = {978-3-8350-0830-4},
+ series = {Beitr{\"a}ge zur Produktionswirtschaft},
+ editor = {Specht, Dieter},
+ booktitle = {Insourcing, Outsourcing, Offshoring},
+ year = {2007},
+ address = {s.l.}
+}
+
+
+@book{Jemili.2011,
+ author = {Jemili, Houssem},
+ year = {2011},
+ title = {Business Process Offshoring},
+ address = {Wiesbaden},
+ publisher = {Gabler},
+ isbn = {978-3-8349-2880-1},
+ doi = {10.1007/978-3-8349-6676-6}
+}
+
+
+@incollection{Jensen.2010,
+ author = {Jensen, J. Bradford and Kletzer, Lori G.},
+ title = {Measuring Tradable Services and the Task Content of Offshorable Services Jobs},
+ pages = {309--335},
+ volume = {v. 71},
+ publisher = {{University of Chicago Press}},
+ isbn = {978-0-226-00143-2},
+ series = {Studies in income and wealth},
+ editor = {Abraham, Katharine G. and Spletzer, James and Harper, Michael J.},
+ booktitle = {Labor in the new economy},
+ year = {2010},
+ address = {Chicago and London}
+}
+
+
+@misc{Winkler.2011,
+ author = {Winkler, Deborah and Milberg, William},
+ year = {2011},
+ title = {Classical and Neoclassical Theories of Offshore Outsourcing},
+ url = {http://www.economicpolicyresearch.org/econ/2011/NSSR_WP_132011.pdf},
+ urldate = {2016-07-25},
+ number = {13}
 }
 
 
@@ -611,4 +712,4 @@ Unternehmen lassen verst{\"a}rkt zentrale Leistungen wie IT, Finanz- und Rechnun
  doi = {10.1016/j.respol.2015.12.005}
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
+
