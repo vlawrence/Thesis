@@ -2082,17 +2082,20 @@
     <bcf:citekey order="31">Winkler.1994c</bcf:citekey>
     <bcf:citekey order="32">Winkler.1994c</bcf:citekey>
     <bcf:citekey order="33">Winkler.1994b</bcf:citekey>
-    <bcf:citekey order="34">CentralIntelligenceAgency.20160719</bcf:citekey>
+    <bcf:citekey order="34">CentralIntelligenceAgency.2016</bcf:citekey>
     <bcf:citekey order="35">Pisani.2016</bcf:citekey>
     <bcf:citekey order="36">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="37">Kozlow.2006</bcf:citekey>
-    <bcf:citekey order="38">Kimmel.2005</bcf:citekey>
-    <bcf:citekey order="39">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="40">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="41">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="42">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="43">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="44">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="37">Jackson.2013</bcf:citekey>
+    <bcf:citekey order="38">Kozlow.2006</bcf:citekey>
+    <bcf:citekey order="39">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="40">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="41">Kimmel.2005</bcf:citekey>
+    <bcf:citekey order="42">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="43">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="44">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="45">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="46">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="47">Hutzschenreuter.2007</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

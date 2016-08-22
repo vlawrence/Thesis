@@ -147,7 +147,7 @@
       \field{pages}{487\bibrangedash 488}
       \range{pages}{2}
     \endentry
-    \entry{CentralIntelligenceAgency.20160719}{misc}{}
+    \entry{CentralIntelligenceAgency.2016}{misc}{}
       \name{editor}{1}{}{%
         {{uniquename=0,hash=93d743bf73f0763a33fe39175e447e1c}{%
            family={{Central\bibnamedelimb Intelligence\bibnamedelimb Agency}},
@@ -330,6 +330,35 @@
       \field{isbn}{978-3-540-71934-2}
       \field{title}{Offshoring von Zentralbereichen: Von den Erfahrungen deutscher und amerikanischer Unternehmen lernen}
       \field{year}{2007}
+    \endentry
+    \entry{Jackson.2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=27af0b073516b8fe12f54f451ada7a5b}{%
+           family={Jackson},
+           family_i={J\bibinitperiod},
+           given={James\bibnamedelima K.},
+           given_i={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{27af0b073516b8fe12f54f451ada7a5b}
+      \strng{fullhash}{27af0b073516b8fe12f54f451ada7a5b}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Congressional Research Service}
+      \field{number}{7-5700}
+      \field{title}{U.S. Direct Investment Abroad: Trends and Current Issues}
+      \field{urlday}{21}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{url}
+      \verb https://www.fas.org/sgp/crs/misc/RS21118.pdf
+      \endverb
     \endentry
     \entry{Jahns.2007}{incollection}{}
       \name{author}{3}{}{%
