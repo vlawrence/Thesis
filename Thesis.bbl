@@ -119,6 +119,29 @@
       \field{pages}{552\bibrangedash 580}
       \range{pages}{29}
     \endentry
+    \entry{BBC.2012}{misc}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=a61d00661142b2d5c6ab4e7fcf6d13c6}{%
+           family={BBC},
+           family_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \strng{fullhash}{a61d00661142b2d5c6ab4e7fcf6d13c6}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Timeline:~Germany}
+      \field{urlday}{22}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://news.bbc.co.uk/2/hi/europe/country_profiles/1053880.stm
+      \endverb
+    \endentry
     \entry{Cappallo.2006}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=c101b35ea6b814bcc7f3a9acdb4d281e}{%
@@ -711,6 +734,65 @@
       \field{year}{1995}
       \field{pages}{1\bibrangedash 118}
       \range{pages}{118}
+    \endentry
+    \entry{Sollner.2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2db94a68b6ec3f91b0f3eaa0db000b9e}{%
+           family={Söllner},
+           family_i={S\bibinitperiod},
+           given={René},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2db94a68b6ec3f91b0f3eaa0db000b9e}
+      \strng{fullhash}{2db94a68b6ec3f91b0f3eaa0db000b9e}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistisches Bundesamt, Wirtschaft und Statistik}
+      \field{title}{Die wirtschaftliche Bedeutung kleiner und mittlerer Unternehmen in Deutschland}
+      \field{urlday}{19}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2014}
+      \field{pages}{40\bibrangedash 51}
+      \range{pages}{12}
+      \verb{url}
+      \verb https://www.destatis.de/DE/Publikationen/WirtschaftStatistik/UnternehmenGewerbeanzeigen/BedeutungKleinerMittlererUnternehmen_12014.pdf?__blob=publicationFile
+      \endverb
+    \endentry
+    \entry{Solsten.1995}{book}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=dd7a9f2e27d2bfbe8089086da8f3bc5f}{%
+           family={Solsten},
+           family_i={S\bibinitperiod},
+           given={Eric},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {GPO for the Library of Congress}%
+      }
+      \strng{namehash}{dd7a9f2e27d2bfbe8089086da8f3bc5f}
+      \strng{fullhash}{dd7a9f2e27d2bfbe8089086da8f3bc5f}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Germany: A Country Study}
+      \field{urlday}{22}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{1995}
+      \verb{url}
+      \verb http://countrystudies.us/germany/
+      \endverb
     \endentry
     \entry{Specht.2007b}{incollection}{}
       \name{author}{2}{}{%
