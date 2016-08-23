@@ -2093,18 +2093,19 @@
     <bcf:citekey order="44">Kimmel.2005</bcf:citekey>
     <bcf:citekey order="45">BBC.2012</bcf:citekey>
     <bcf:citekey order="46">Solsten.1995</bcf:citekey>
-    <bcf:citekey order="47">Sollner.2014</bcf:citekey>
+    <bcf:citekey order="47">Solsten.1995</bcf:citekey>
     <bcf:citekey order="48">Sollner.2014</bcf:citekey>
     <bcf:citekey order="49">Sollner.2014</bcf:citekey>
     <bcf:citekey order="50">Sollner.2014</bcf:citekey>
     <bcf:citekey order="51">Sollner.2014</bcf:citekey>
     <bcf:citekey order="52">Sollner.2014</bcf:citekey>
-    <bcf:citekey order="53">Eickelpasch.2015</bcf:citekey>
+    <bcf:citekey order="53">Sollner.2014</bcf:citekey>
     <bcf:citekey order="54">Eickelpasch.2015</bcf:citekey>
-    <bcf:citekey order="55">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="55">Eickelpasch.2015</bcf:citekey>
     <bcf:citekey order="56">StatistischesBundesamt.2008</bcf:citekey>
     <bcf:citekey order="57">StatistischesBundesamt.2008</bcf:citekey>
-    <bcf:citekey order="58">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="58">StatistischesBundesamt.2008</bcf:citekey>
+    <bcf:citekey order="59">Hutzschenreuter.2007</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>
