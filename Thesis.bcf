@@ -2106,9 +2106,12 @@
     <bcf:citekey order="57">StatistischesBundesamt.2008</bcf:citekey>
     <bcf:citekey order="58">StatistischesBundesamt.2008</bcf:citekey>
     <bcf:citekey order="59">StatistischesBundesamt.2016</bcf:citekey>
-    <bcf:citekey order="60">Hutzschenreuter.2007</bcf:citekey>
-    <bcf:citekey order="61">Hogg.2008</bcf:citekey>
-    <bcf:citekey order="62">AuswartigesAmt.2015</bcf:citekey>
+    <bcf:citekey order="60">Sollner.2014</bcf:citekey>
+    <bcf:citekey order="61">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="62">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="63">Hutzschenreuter.2007</bcf:citekey>
+    <bcf:citekey order="64">Hogg.2008</bcf:citekey>
+    <bcf:citekey order="65">AuswartigesAmt.2015</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

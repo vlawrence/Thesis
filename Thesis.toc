@@ -54,48 +54,48 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Structure of organizations}{18}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring Locations and Distances}{18}{section*.21}
+\contentsline {paragraph}{\nonumberline Offshoring Locations and Distances}{19}{section*.21}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Language}{19}{section*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Case Studies}{19}{section.3}
+\contentsline {section}{\numberline {3}Case Studies}{20}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Interview Technique}{19}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.1}Interview Technique}{20}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Identify experts}{19}{section*.18}
+\contentsline {paragraph}{\nonumberline Identify experts}{20}{section*.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Contact experts}{20}{section*.19}
+\contentsline {paragraph}{\nonumberline Contact experts}{21}{section*.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Negotiate date}{20}{section*.20}
+\contentsline {paragraph}{\nonumberline Negotiate date}{21}{section*.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Conduct interview}{20}{section*.21}
+\contentsline {paragraph}{\nonumberline Conduct interview}{21}{section*.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Evaluate interview}{20}{section*.22}
+\contentsline {paragraph}{\nonumberline Evaluate interview}{21}{section*.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Abstract interview}{20}{section*.23}
+\contentsline {paragraph}{\nonumberline Abstract interview}{21}{section*.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{20}{section*.24}
+\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{21}{section*.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{21}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{22}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Background}{21}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1}Background}{22}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{21}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{22}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{21}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{22}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Case study Title 2}{21}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}Case study Title 2}{22}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Background}{21}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1}Background}{22}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{21}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{22}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{21}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{22}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{21}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{22}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{22}{section.4}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{23}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{23}{section*.22}
+\contentsline {section}{References}{24}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{25}{section*.26}
+\contentsline {section}{Appendix}{27}{section*.31}
