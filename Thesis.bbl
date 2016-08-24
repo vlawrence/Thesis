@@ -119,6 +119,29 @@
       \field{pages}{552\bibrangedash 580}
       \range{pages}{29}
     \endentry
+    \entry{AuswartigesAmt.2015}{misc}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=6d343e6cb495b7217f599216ba287716}{%
+           family={{Auswärtiges\bibnamedelimb Amt}},
+           family_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d343e6cb495b7217f599216ba287716}
+      \strng{fullhash}{6d343e6cb495b7217f599216ba287716}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Deutsch als Fremdsprache weltweit: Datenerhebung 2015}
+      \field{urlday}{24}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.goethe.de/resources/files/pdf37/Bro_Deutschlernerhebung_final2.pdf
+      \endverb
+    \endentry
     \entry{BBC.2012}{misc}{}
       \name{editor}{1}{}{%
         {{uniquename=0,hash=a61d00661142b2d5c6ab4e7fcf6d13c6}{%
@@ -313,6 +336,34 @@
       \verb{doi}
       \verb 10.1257/jep.13.2.121
       \endverb
+    \endentry
+    \entry{Hogg.2008}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8d0090f61dc1de224c353c26e5252ad7}{%
+           family={Hogg},
+           family_i={H\bibinitperiod},
+           given={R.},
+           given_i={R\bibinitperiod}}}%
+        {{uniquename=0,hash=e24db96c397919785c86b432304ec153}{%
+           family={Denison},
+           family_i={D\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{31ef288e1c1ba1f2714b0d72c8efd072}
+      \strng{fullhash}{31ef288e1c1ba1f2714b0d72c8efd072}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781139451291}
+      \field{title}{A History of the English Language}
+      \field{year}{2008}
     \endentry
     \entry{Hutzschenreuter.2007}{book}{}
       \name{author}{3}{}{%
@@ -863,6 +914,33 @@
       \verb https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/VerlagerungAktivitaeten5529301069004.pdf?__blob=publicationFile
       \endverb
       \keyw{Europa;Globalisierung;Internationalisierung;outsourcing;Standortverlagerun;Unternehmen}
+    \endentry
+    \entry{StatistischesBundesamt.2016}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=188d2e0b3fc3475a6d378d4f9cbd8f15}{%
+           family={{Statistisches\bibnamedelimb Bundesamt}},
+           family_i={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \strng{namehash}{188d2e0b3fc3475a6d378d4f9cbd8f15}
+      \strng{fullhash}{188d2e0b3fc3475a6d378d4f9cbd8f15}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Au{ß}enhandel: Gesamtentwicklung im Au{ß}enhandel seit 1950: 2015 vorläufig}
+      \field{urlday}{24}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Aussenhandel/Gesamtentwicklung/Tabellen/GesamtentwicklungAussenhandel.pdf?__blob=publicationFile
+      \endverb
+      \keyw{Au{ß}enhandel;Exporte;Gesamtentwicklung;Importe}
     \endentry
     \entry{Winkler.1994}{incollection}{}
       \name{author}{1}{}{%

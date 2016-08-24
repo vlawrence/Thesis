@@ -48,9 +48,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{18}{subsection.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.1}Maturity of Offshoring}{18}{subsubsection.2.5.1}
+\contentsline {paragraph}{\nonumberline Economic Focus}{18}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.5.2}Offshoring Locations and Distances}{18}{subsubsection.2.5.2}
+\contentsline {paragraph}{\nonumberline Maturity of Offshoring}{18}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Structure of organizations}{18}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Offshoring Locations and Distances}{18}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Language}{19}{section*.22}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Case Studies}{19}{section.3}
 \defcounter {refsection}{0}\relax 
@@ -90,6 +96,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Conclusions and Limitations}{22}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{23}{section.4}
+\contentsline {section}{References}{23}{section*.22}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Appendix}{25}{section*.26}
