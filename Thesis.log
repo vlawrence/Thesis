@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  23 AUG 2016 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  24 AUG 2016 07:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1269,7 +1269,7 @@ l.79 \firstpages
 
 
 ]
-<Pictures/Terms_definition.jpg, id=274, 387.69844pt x 389.20406pt>
+<Pictures/Terms_definition.jpg, id=277, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
@@ -1308,7 +1308,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
 
-[9] <Pictures/US_Company_Size.jpg, id=372, 298.716pt x 255.8358pt>
+[9] <Pictures/US_Company_Size.jpg, id=375, 298.716pt x 255.8358pt>
 File: Pictures/US_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/US_Company_Size.jpg>
@@ -1327,7 +1327,7 @@ census . gov / faces / tableservices / jsf / pages / productview .
                                                   \fi \fi 
 l.115 
        <./Pictures/US_Company_Size.jpg>]
-<Pictures/US_Employees.jpg, id=387, 302.5704pt x 265.9536pt>
+<Pictures/US_Employees.jpg, id=390, 302.5704pt x 265.9536pt>
 File: Pictures/US_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/US_Employees.jpg>
@@ -1346,7 +1346,7 @@ census . gov / faces / tableservices / jsf / pages / productview .
                                                   \fi \fi 
 l.129 
        <./Pictures/US_Employees.jpg>]
-<Pictures/US_Import_ICT_Services.jpg, id=411, 406.1574pt x 330.5148pt>
+<Pictures/US_Import_ICT_Services.jpg, id=414, 406.1574pt x 330.5148pt>
 File: Pictures/US_Import_ICT_Services.jpg Graphic file (type jpg)
 
 <use Pictures/US_Import_ICT_Services.jpg>
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: Pictures/US_Import_ICT_Services.jpg used on input line
                                                   \fi \fi 
 l.145 
        <./Pictures/US_Import_ICT_Services.jpg>]
-<Pictures/US_Offshoring_percentage.jpg, id=423, 497.6994pt x 556.9608pt>
+<Pictures/US_Offshoring_percentage.jpg, id=426, 497.6994pt x 556.9608pt>
 File: Pictures/US_Offshoring_percentage.jpg Graphic file (type jpg)
 
 <use Pictures/US_Offshoring_percentage.jpg>
@@ -1379,38 +1379,38 @@ census . gov / faces / tableservices / jsf / pages / productview .
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.152 
-       <./Pictures/US_Offshoring_percentage.jpg>] [14]
-<Pictures/GER_Company_Size.jpg, id=473, 292.9344pt x 295.3434pt>
+       <./Pictures/US_Offshoring_percentage.jpg>] [14] [15]
+<Pictures/GER_Company_Size.jpg, id=488, 292.9344pt x 295.3434pt>
 File: Pictures/GER_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Company_Size.jpg>
-Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 190.
+Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 191.
 (pdftex.def)             Requested size: 182.09486pt x 183.59772pt.
 
-<Pictures/GER_Employees.jpg, id=478, 292.9344pt x 295.8252pt>
+<Pictures/GER_Employees.jpg, id=493, 292.9344pt x 295.8252pt>
 File: Pictures/GER_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Employees.jpg>
-Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 197.
+Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 198.
 (pdftex.def)             Requested size: 182.09486pt x 183.89722pt.
- [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.6}) has been already used, duplicate ignored
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.210 
+l.206 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.210 
+l.206 
        <./Pictures/GER_Company_Size.jpg> <./Pictures/GER_Employees.jpg>]
 [17]) [18]
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=538, 755.82375pt x 491.58656pt>
+<Pictures/Interview_process.jpg, id=543, 755.82375pt x 491.58656pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
@@ -1558,17 +1558,17 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 19553 strings out of 493027
- 319654 string characters out of 6131332
+ 19554 strings out of 493027
+ 319666 string characters out of 6131332
  894795 words of memory out of 5000000
  22572 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,60p,1949b,2317s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not ex
+pdfTeX warning (dest): name{Hfootnote.27} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exis
+pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
 t, replaced by a fixed one
 
 <d:/Program Files/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
@@ -1586,10 +1586,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (35 pages, 691399 bytes).
+Output written on Thesis.pdf (35 pages, 692405 bytes).
 PDF statistics:
- 753 PDF objects out of 1000 (max. 8388607)
- 678 compressed objects within 7 object streams
- 167 named destinations out of 1000 (max. 500000)
+ 758 PDF objects out of 1000 (max. 8388607)
+ 683 compressed objects within 7 object streams
+ 168 named destinations out of 1000 (max. 500000)
  249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
