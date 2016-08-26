@@ -76,26 +76,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{21}{section*.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Case Study Title 1}{22}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}A German Project Manager on Offshoring with Different Service Providers}{22}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.1}Background}{22}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{22}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{22}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{23}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Case study Title 2}{22}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}A.S. Viswanathan}{23}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Background}{22}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1}Background}{23}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{22}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{23}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{22}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{23}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Summary and Evaluation}{22}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.4}Ingo K\"ummritz}{23}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{23}{section.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Background}{23}{subsubsection.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{24}{section.4}
+\contentsline {subsubsection}{\numberline {3.4.2}Results of Interview}{23}{subsubsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{27}{section*.31}
+\contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{23}{subsubsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Subir Purkayastha}{23}{subsection.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1}Background}{23}{subsubsection.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.2}Results of Interview}{23}{subsubsection.3.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.3}Conclusions}{23}{subsubsection.3.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{23}{subsection.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{24}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{25}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendix}{28}{section*.31}
