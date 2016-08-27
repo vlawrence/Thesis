@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  26 AUG 2016 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  27 AUG 2016 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,6 +873,12 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip80
 \JustifyingParindent=\skip81
 )
+(d:/Program Files/texlive/2015/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks25
+\AP@partial=\box30
+\AP@footins=\box31
+)
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/glossaries/base/glossaries.
 sty
 Package: glossaries 2016/01/24 v4.21 (NLCT)
@@ -881,16 +887,16 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (d:/Program Files/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (d:/Program Files/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
 )
 \XKV@depth=\count299
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2015/12/17 v2.02 (NLCT)
-\@glsmfirst=\toks27
-\@glsmrest=\toks28
+\@glsmfirst=\toks28
+\@glsmrest=\toks29
 )
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
@@ -956,7 +962,7 @@ Package: fp-upn 1996/10/21
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks29
+\@dtl@toks=\toks30
 \@dtl@tmpcount=\count312
 \dtl@tmplength=\skip82
 \dtl@sortresult=\count313
@@ -986,12 +992,12 @@ es-english.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
 )
 \gls@level=\count319
-\@gls@tmpb=\toks30
+\@gls@tmpb=\toks31
 \gls@tmplen=\skip83
-\glskeylisttok=\toks31
-\glslabeltok=\toks32
-\glsshorttok=\toks33
-\glslongtok=\toks34
+\glskeylisttok=\toks32
+\glslabeltok=\toks33
+\glsshorttok=\toks34
+\glslongtok=\toks35
 
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/glossaries/styles/glossary-
 hypernav.sty
@@ -1014,15 +1020,15 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTpost=\skip88
 \LTchunksize=\count320
 \LTcapwidth=\dimen132
-\LT@head=\box30
-\LT@firsthead=\box31
-\LT@foot=\box32
-\LT@lastfoot=\box33
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
 \LT@cols=\count321
 \LT@rows=\count322
 \c@LT@tables=\count323
 \c@LT@chunks=\count324
-\LT@p@ftn=\toks35
+\LT@p@ftn=\toks36
 )
 Class scrartcl Info: longtable captions redefined on input line 43.
 \glsdescwidth=\skip89
@@ -1050,7 +1056,7 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@prevht=\dimen141
 \ST@toadd=\dimen142
 \ST@dimen=\dimen143
-\ST@pbox=\box34
+\ST@pbox=\box36
 ))
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/glossaries/styles/glossary-
 tree.sty
@@ -1081,16 +1087,10 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count327
-\float@exts=\toks36
-\float@box=\box35
-\@float@everytoks=\toks37
-\@floatcapt=\box36
-)
-(d:/Program Files/texlive/2015/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks38
-\AP@partial=\box37
-\AP@footins=\box38
+\float@exts=\toks37
+\float@box=\box37
+\@float@everytoks=\toks38
+\@floatcapt=\box38
 )
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/moreverb/moreverb.sty
 Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
@@ -1121,20 +1121,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./3_Case-Studies.aux) (./4_Conclusions.aux) (./Appendix.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1171,7 +1171,7 @@ LaTeX Font Info:    ... okay on input line 77.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 86.
 (d:/Program Files/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1181,9 +1181,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count333
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
  (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write4
 \openout4 = `Thesis.out'.
@@ -1196,11 +1196,11 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
  (./Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 77.
-Package biblatex Info: Reference segment=0 on input line 77.
+Package biblatex Info: Reference section=0 on input line 86.
+Package biblatex Info: Reference segment=0 on input line 86.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 77.
+LaTeX Info: Redefining \selectfont on input line 86.
 
 (d:/Program Files/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1238,44 +1238,44 @@ Overfull \hbox (7.486pt too wide) in paragraph at lines 46--46
 
 ) [1
 
-{d:/Program Files/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (
-./Thesis.toc)
+{d:/Program Files/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pd
+fTeX warning (ext4): destination with the same identifier (name{page.}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88 \firstpages
+                 [2] (./Thesis.toc)
 \tf@toc=\write5
 \openout5 = `Thesis.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \firstpages
-                 [2] (./Thesis.lof)
+ [3] (./Thesis.lof)
 \tf@lof=\write6
 \openout6 = `Thesis.lof'.
 
- [1] (./Thesis.lot)
+ [4] (./Thesis.lot)
 \tf@lot=\write7
 \openout7 = `Thesis.lot'.
 
- [2] [3]
+
+[5] [6]
 \openout2 = `1_Introduction.aux'.
 
-
-(./1_Introduction.tex) [4
+ (./1_Introduction.tex) [7
 
 ]
 \openout2 = `2_Offshoring-Literature.aux'.
 
- (./2_Offshoring-Literature.tex [5
+ (./2_Offshoring-Literature.tex [8
 
 
 ]
-<Pictures/Terms_definition.jpg, id=311, 387.69844pt x 389.20406pt>
+<Pictures/Terms_definition.jpg, id=322, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
 Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 26.
 (pdftex.def)             Requested size: 318.66948pt x 319.90956pt.
- [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1287,14 +1287,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 str . gov / trade -[] agreements / free -[] trade -[] agreements / north -[]
  []
 
-[7]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
 []\OT1/cmr/m/n/12 ``The United States is the world's largest di-rect in-vestor[
 ...]''
  []
 
-[8pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
-as been already used, duplicate ignored
+[11pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1308,7 +1308,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
 
-[9] <Pictures/US_Company_Size.jpg, id=407, 298.716pt x 255.8358pt>
+[12] <Pictures/US_Company_Size.jpg, id=418, 298.716pt x 255.8358pt>
 File: Pictures/US_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/US_Company_Size.jpg>
@@ -1320,14 +1320,14 @@ Underfull \hbox (badness 1796) in paragraph at lines 112--112
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.115 
        <./Pictures/US_Company_Size.jpg>]
-<Pictures/US_Employees.jpg, id=422, 302.5704pt x 265.9536pt>
+<Pictures/US_Employees.jpg, id=435, 302.5704pt x 265.9536pt>
 File: Pictures/US_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/US_Employees.jpg>
@@ -1339,28 +1339,28 @@ Underfull \hbox (badness 1796) in paragraph at lines 118--118
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.129 
        <./Pictures/US_Employees.jpg>]
-<Pictures/US_Import_ICT_Services.jpg, id=447, 406.1574pt x 330.5148pt>
+<Pictures/US_Import_ICT_Services.jpg, id=458, 406.1574pt x 330.5148pt>
 File: Pictures/US_Import_ICT_Services.jpg Graphic file (type jpg)
 
 <use Pictures/US_Import_ICT_Services.jpg>
 Package pdftex.def Info: Pictures/US_Import_ICT_Services.jpg used on input line
  138.
 (pdftex.def)             Requested size: 273.14923pt x 222.2759pt.
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.145 
        <./Pictures/US_Import_ICT_Services.jpg>]
-<Pictures/US_Offshoring_percentage.jpg, id=458, 497.6994pt x 556.9608pt>
+<Pictures/US_Offshoring_percentage.jpg, id=469, 497.6994pt x 556.9608pt>
 File: Pictures/US_Offshoring_percentage.jpg Graphic file (type jpg)
 
 <use Pictures/US_Offshoring_percentage.jpg>
@@ -1373,27 +1373,27 @@ Underfull \hbox (badness 1796) in paragraph at lines 146--146
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[13pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.152 
-       <./Pictures/US_Offshoring_percentage.jpg>] [14] [15]
-<Pictures/GER_Company_Size.jpg, id=520, 292.9344pt x 295.3434pt>
+       <./Pictures/US_Offshoring_percentage.jpg>] [17] [18]
+<Pictures/GER_Company_Size.jpg, id=531, 292.9344pt x 295.3434pt>
 File: Pictures/GER_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Company_Size.jpg>
 Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 191.
 (pdftex.def)             Requested size: 182.09486pt x 183.59772pt.
 
-<Pictures/GER_Employees.jpg, id=525, 292.9344pt x 295.8252pt>
+<Pictures/GER_Employees.jpg, id=536, 292.9344pt x 295.8252pt>
 File: Pictures/GER_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Employees.jpg>
 Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 198.
 (pdftex.def)             Requested size: 182.09486pt x 183.89722pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1406,23 +1406,23 @@ l.206
                                                   \fi \fi 
 l.206 
        <./Pictures/GER_Company_Size.jpg> <./Pictures/GER_Employees.jpg>]
-[17]
+[20]
 Underfull \hbox (badness 1796) in paragraph at lines 238--238
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[18]) [19]
+[21]) [22]
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=610, 755.82375pt x 491.58656pt>
+<Pictures/Interview_process.jpg, id=621, 864.98157pt x 532.99126pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
-Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 17.
-(pdftex.def)             Requested size: 409.71692pt x 266.48042pt.
- [20
+Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 18.
+(pdftex.def)             Requested size: 455.24411pt x 280.51588pt.
+ [23
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
@@ -1430,69 +1430,107 @@ s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.24 \paragraph
-               {Negotiate date} Once the expert has agreed to participate in...
- <./Pictures/Interview_process.jpg>] [21]
-<Pictures/1on1_relationship.jpg, id=627, 522.45187pt x 356.83313pt>
+l.23 \newpage
+              <./Pictures/Interview_process.jpg>] [24]
+<Pictures/1on1_relationship.jpg, id=638, 522.45187pt x 356.83313pt>
 File: Pictures/1on1_relationship.jpg Graphic file (type jpg)
 
 <use Pictures/1on1_relationship.jpg>
-Package pdftex.def Info: Pictures/1on1_relationship.jpg used on input line 56.
+Package pdftex.def Info: Pictures/1on1_relationship.jpg used on input line 60.
 (pdftex.def)             Requested size: 227.62206pt x 155.46617pt.
- [22pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.62 
-      <./Pictures/1on1_relationship.jpg>]) [23]
+l.66 
+      <./Pictures/1on1_relationship.jpg>]
+<Pictures/Hierarchy.jpg, id=646, 712.16063pt x 415.5525pt>
+File: Pictures/Hierarchy.jpg Graphic file (type jpg)
+
+<use Pictures/Hierarchy.jpg>
+Package pdftex.def Info: Pictures/Hierarchy.jpg used on input line 76.
+(pdftex.def)             Requested size: 318.66948pt x 185.94432pt.
+ [26pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.82 
+      <./Pictures/Hierarchy.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|\OT1/cmr/m/n/12 All off-shore team mem-bers
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 97--97
+\OT1/cmr/m/n/12 re-la-tion-ships with T-Systems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\OT1/cmr/m/n/12 Hierarchical com-mu-ni-ca-tion
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 99--99
+[]|\OT1/cmr/m/n/12 Motivation by lo-cal project
+ []
+
+[27pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.112 \subsubsection
+                    {Background}]) [28]
 \openout2 = `4_Conclusions.aux'.
 
- (./4_Conclusions.tex) [24
+ (./4_Conclusions.tex) [29
 
 
 ]
-Overfull \hbox (11.28412pt too wide) in paragraph at lines 96--96
+Overfull \hbox (11.28412pt too wide) in paragraph at lines 105--105
 \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m/n/12 https : / / www . goe
 the . de / resources / files / pdf37 / Bro _ Deutschlernerhebung _
  []
 
 
-Overfull \hbox (35.72209pt too wide) in paragraph at lines 96--96
+Overfull \hbox (35.72209pt too wide) in paragraph at lines 105--105
 [][]\OT1/cmr/m/n/12 Knolmayer, Ger-hard F. (2007). ``Sourcing-Entscheidungen au
 s den Per-spek-tiven des Produktions-
  []
 
-[25
+[30
 
 
 ]
-Overfull \hbox (38.4057pt too wide) in paragraph at lines 96--96
+Overfull \hbox (38.4057pt too wide) in paragraph at lines 105--105
 [][]\OT1/cmr/m/n/12 Leiner, Barry M. et al. (2003). \OT1/cmr/m/it/12 Brief His-
 tory of the In-ter-net\OT1/cmr/m/n/12 . \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : [
 ]$\OT1/cmtt/m/n/12 http : / / www . internetsociety .
  []
 
 
-Overfull \hbox (4.33281pt too wide) in paragraph at lines 96--96
+Overfull \hbox (4.33281pt too wide) in paragraph at lines 105--105
 \OT1/cmr/m/n/12 Hand-lungsalter-na-tiven''. In: \OT1/cmr/m/it/12 In-sourc-ing, 
 Out-sourc-ing, Off-shoring\OT1/cmr/m/n/12 . Ed. by Di-eter Specht.
  []
 
 
-Overfull \hbox (9.35611pt too wide) in paragraph at lines 96--96
+Overfull \hbox (9.35611pt too wide) in paragraph at lines 105--105
 \OT1/cmtt/m/n/12 Thematisch / UnternehmenHandwerk / VerlagerungAktivitaeten5529
 301069004 . pdf ?
  []
 
 
-Overfull \hbox (42.16487pt too wide) in paragraph at lines 96--96
+Overfull \hbox (42.16487pt too wide) in paragraph at lines 105--105
 \OT1/cmr/m/n/12 Wies-baden. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/
 m/n/12 https : / / www . destatis . de / DE / ZahlenFakten / GesamtwirtschaftUm
 welt /
  []
 
-[26] [27]
+[31] [32]
 \openout2 = `Appendix.aux'.
 
  (./Appendix.tex
@@ -1552,7 +1590,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 39.
 
-[28
+[33
 
 ]
 
@@ -1569,26 +1607,26 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 45.
 
-[29] [30] [31] [32] [33] [34] [35]) [36]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+[34] [35] [36] [37] [38] [39] [40]) [41]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./Thesis.aux (./1_Introduction.aux)
 (./2_Offshoring-Literature.aux) (./3_Case-Studies.aux) (./4_Conclusions.aux)
 (./Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 42ABD600AF7282E1CA2B44D2AFF2715A;2207.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 19603 strings out of 493027
- 320575 string characters out of 6131332
- 897102 words of memory out of 5000000
- 22598 multiletter control sequences out of 15000+600000
+ 19617 strings out of 493027
+ 320799 string characters out of 6131332
+ 896431 words of memory out of 5000000
+ 22606 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,60p,1949b,2317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1613,10 +1651,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (38 pages, 731197 bytes).
+Output written on Thesis.pdf (41 pages, 782734 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
- 770 compressed objects within 8 object streams
- 190 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 874 PDF objects out of 1000 (max. 8388607)
+ 790 compressed objects within 8 object streams
+ 195 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,6 +16,7 @@ captions=tableheading]{scrartcl}
 \usepackage[backend=biber,style=authoryear,sortcites=false,citestyle=authoryear,url=true,natbib=true]{biblatex}
 \addbibresource{Literatur.bib}%Dateiname für Quellen einfügen
 \usepackage{ragged2e} %für bessere URL formatierung bei printbibliography
+\usepackage{afterpage}
 \usepackage{glossaries}
 \setacronymstyle{long-short}
 %\GlsSetQuote{+}
@@ -60,20 +61,28 @@ captions=tableheading]{scrartcl}
 %First pages
 \newcommand{\firstpages}{
 	\input{0_Deckblatt.tex}
-	
+	\afterpage{\blankpage}
 	\newpage
+	\pagenumbering{arabic}
+	\setcounter{page}{3}
 	\tableofcontents{}
 	\addtocontents{toc}{~\hfill\textbf{Page}\par}
 
 	\newpage
-	\pagenumbering{arabic}
 	\listoffigures
 	\addcontentsline{toc}{section}{List of Figures}
 	\newpage
 	\listoftables
 	\addcontentsline{toc}{section}{List of Tables}
-
 }
+
+
+
+\newcommand\blankpage{%
+	\null
+	\thispagestyle{empty}%
+	\newpage}
+
 \begin{document}
 \pagenumbering{gobble}
 \firstpages
