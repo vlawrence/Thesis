@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  27 AUG 2016 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  29 AUG 2016 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1269,7 +1269,7 @@ l.88 \firstpages
 
 
 ]
-<Pictures/Terms_definition.jpg, id=322, 387.69844pt x 389.20406pt>
+<Pictures/Terms_definition.jpg, id=324, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
@@ -1308,7 +1308,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
 
-[12] <Pictures/US_Company_Size.jpg, id=418, 298.716pt x 255.8358pt>
+[12] <Pictures/US_Company_Size.jpg, id=420, 298.716pt x 255.8358pt>
 File: Pictures/US_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/US_Company_Size.jpg>
@@ -1327,7 +1327,7 @@ census . gov / faces / tableservices / jsf / pages / productview .
                                                   \fi \fi 
 l.115 
        <./Pictures/US_Company_Size.jpg>]
-<Pictures/US_Employees.jpg, id=435, 302.5704pt x 265.9536pt>
+<Pictures/US_Employees.jpg, id=437, 302.5704pt x 265.9536pt>
 File: Pictures/US_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/US_Employees.jpg>
@@ -1346,7 +1346,7 @@ census . gov / faces / tableservices / jsf / pages / productview .
                                                   \fi \fi 
 l.129 
        <./Pictures/US_Employees.jpg>]
-<Pictures/US_Import_ICT_Services.jpg, id=458, 406.1574pt x 330.5148pt>
+<Pictures/US_Import_ICT_Services.jpg, id=460, 406.1574pt x 330.5148pt>
 File: Pictures/US_Import_ICT_Services.jpg Graphic file (type jpg)
 
 <use Pictures/US_Import_ICT_Services.jpg>
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: Pictures/US_Import_ICT_Services.jpg used on input line
                                                   \fi \fi 
 l.145 
        <./Pictures/US_Import_ICT_Services.jpg>]
-<Pictures/US_Offshoring_percentage.jpg, id=469, 497.6994pt x 556.9608pt>
+<Pictures/US_Offshoring_percentage.jpg, id=471, 497.6994pt x 556.9608pt>
 File: Pictures/US_Offshoring_percentage.jpg Graphic file (type jpg)
 
 <use Pictures/US_Offshoring_percentage.jpg>
@@ -1380,14 +1380,14 @@ census . gov / faces / tableservices / jsf / pages / productview .
                                                   \fi \fi 
 l.152 
        <./Pictures/US_Offshoring_percentage.jpg>] [17] [18]
-<Pictures/GER_Company_Size.jpg, id=531, 292.9344pt x 295.3434pt>
+<Pictures/GER_Company_Size.jpg, id=533, 292.9344pt x 295.3434pt>
 File: Pictures/GER_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Company_Size.jpg>
 Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 191.
 (pdftex.def)             Requested size: 182.09486pt x 183.59772pt.
 
-<Pictures/GER_Employees.jpg, id=536, 292.9344pt x 295.8252pt>
+<Pictures/GER_Employees.jpg, id=538, 292.9344pt x 295.8252pt>
 File: Pictures/GER_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Employees.jpg>
@@ -1416,7 +1416,7 @@ census . gov / faces / tableservices / jsf / pages / productview .
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=621, 864.98157pt x 532.99126pt>
+<Pictures/Interview_process.jpg, id=623, 864.98157pt x 532.99126pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
@@ -1432,7 +1432,7 @@ s been already used, duplicate ignored
                                                   \fi \fi 
 l.23 \newpage
               <./Pictures/Interview_process.jpg>] [24]
-<Pictures/1on1_relationship.jpg, id=638, 522.45187pt x 356.83313pt>
+<Pictures/1on1_relationship.jpg, id=640, 522.45187pt x 356.83313pt>
 File: Pictures/1on1_relationship.jpg Graphic file (type jpg)
 
 <use Pictures/1on1_relationship.jpg>
@@ -1445,7 +1445,7 @@ Package pdftex.def Info: Pictures/1on1_relationship.jpg used on input line 60.
                                                   \fi \fi 
 l.66 
       <./Pictures/1on1_relationship.jpg>]
-<Pictures/Hierarchy.jpg, id=646, 712.16063pt x 415.5525pt>
+<Pictures/Hierarchy.jpg, id=648, 712.16063pt x 415.5525pt>
 File: Pictures/Hierarchy.jpg Graphic file (type jpg)
 
 <use Pictures/Hierarchy.jpg>
@@ -1483,10 +1483,11 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.112 \subsubsection
-                    {Background}]) [28]
+                    {Background}] [28]) [29] [30]
 \openout2 = `4_Conclusions.aux'.
 
- (./4_Conclusions.tex) [29
+ (./4_Conclusions.tex)
+[31
 
 
 ]
@@ -1501,7 +1502,7 @@ Overfull \hbox (35.72209pt too wide) in paragraph at lines 105--105
 s den Per-spek-tiven des Produktions-
  []
 
-[30
+[32
 
 
 ]
@@ -1530,7 +1531,7 @@ m/n/12 https : / / www . destatis . de / DE / ZahlenFakten / GesamtwirtschaftUm
 welt /
  []
 
-[31] [32]
+[33] [34]
 \openout2 = `Appendix.aux'.
 
  (./Appendix.tex
@@ -1590,7 +1591,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 39.
 
-[33
+[35
 
 ]
 
@@ -1607,7 +1608,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 45.
 
-[34] [35] [36] [37] [38] [39] [40]) [41]
+[36] [37] [38] [39] [40] [41] [42]) [43]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./Thesis.aux (./1_Introduction.aux)
@@ -1616,16 +1617,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 42ABD600AF7282E1CA2B44D2AFF2715A;2207.
+(rerunfilecheck)             Checksum: E771DE631E3427BF4D25A6FE366929F4;2253.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 19617 strings out of 493027
- 320799 string characters out of 6131332
- 896431 words of memory out of 5000000
+ 19621 strings out of 493027
+ 320835 string characters out of 6131332
+ 896493 words of memory out of 5000000
  22606 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1651,10 +1652,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (41 pages, 782734 bytes).
+Output written on Thesis.pdf (43 pages, 787379 bytes).
 PDF statistics:
- 874 PDF objects out of 1000 (max. 8388607)
- 790 compressed objects within 8 object streams
- 195 named destinations out of 1000 (max. 500000)
+ 890 PDF objects out of 1000 (max. 8388607)
+ 803 compressed objects within 9 object streams
+ 199 named destinations out of 1000 (max. 500000)
  307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
