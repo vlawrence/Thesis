@@ -106,20 +106,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Offshoring in Germany}{34}{section*.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{34}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{36}{subsubsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}Subir Purkayastha}{34}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.5}Subir Purkayastha}{36}{subsection.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}Background}{34}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1}Background}{36}{subsubsection.3.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2}Results of Interview}{34}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2}Results of Interview}{36}{subsubsection.3.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.3}Conclusions}{34}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.3}Conclusions}{36}{subsubsection.3.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{34}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{36}{subsection.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{35}{section.4}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{37}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{36}{section.4}
+\contentsline {section}{References}{38}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{39}{section*.35}
+\contentsline {section}{Appendix}{41}{section*.35}
