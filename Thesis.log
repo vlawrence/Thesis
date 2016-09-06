@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  4 SEP 2016 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  5 SEP 2016 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,7 +1118,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count331
 \@quotereset=\count332
 (./Thesis.aux (./1_Introduction.aux) (./2_Offshoring-Literature.aux)
-(./3_Case-Studies.aux) (./4_Conclusions.aux) (./Appendix.aux))
+(./3_Case-Studies.aux) (./4_Conclusions.aux) (./Selbst.aux) (./Appendix.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
@@ -1588,6 +1588,11 @@ welt /
  []
 
 [40] [41]
+\openout2 = `Selbst.aux'.
+
+ (./Selbst.tex) [42
+
+]
 \openout2 = `Appendix.aux'.
 
  (./Appendix.tex
@@ -1647,7 +1652,8 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 41.
 
-[42
+[43
+
 
 ]
 
@@ -1664,26 +1670,26 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 47.
 
-[43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]) [54]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
- (./Thesis.aux
-(./1_Introduction.aux) (./2_Offshoring-Literature.aux) (./3_Case-Studies.aux)
-(./4_Conclusions.aux) (./Appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]) [56]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+ (./Thesis.aux (./1_Introduction.aux) (./2_Offshoring-Literature.aux) (./3_Case
+-Studies.aux)
+(./4_Conclusions.aux) (./Selbst.aux) (./Appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AAEF09D0E59EBDCE4EC9DE4610D383CE;2253.
+(rerunfilecheck)             Checksum: 68D20EBF8A26FFEB984D5F8FCF0B3736;2253.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 19642 strings out of 493027
- 321041 string characters out of 6131332
- 897028 words of memory out of 5000000
- 22610 multiletter control sequences out of 15000+600000
+ 19657 strings out of 493027
+ 321210 string characters out of 6131332
+ 899394 words of memory out of 5000000
+ 22615 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,60p,1949b,2317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1708,10 +1714,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (54 pages, 820954 bytes).
+Output written on Thesis.pdf (56 pages, 825292 bytes).
 PDF statistics:
- 972 PDF objects out of 1000 (max. 8388607)
- 874 compressed objects within 9 object streams
- 216 named destinations out of 1000 (max. 500000)
+ 987 PDF objects out of 1000 (max. 8388607)
+ 887 compressed objects within 9 object streams
+ 219 named destinations out of 1000 (max. 500000)
  307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
