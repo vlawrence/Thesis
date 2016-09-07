@@ -30,7 +30,7 @@ captions=tableheading]{scrartcl}
 \interfootnotelinepenalty=99999 %Seitenumbruch einer Fußzeile verhindern
 
 \newcommand{\bildcite}[5]{
-	\begin{figure}[htbp]
+	\begin{figure}[H]
 		\centering
 		\includegraphics[width=#5\textwidth]{Pictures/#1}
 		\vspace{2mm}
@@ -101,7 +101,7 @@ captions=tableheading]{scrartcl}
 \clearpage
 \addcontentsline{toc}{section}{References}
 \label{Ref}
-\printbibliography
+\sloppy\printbibliography
 
 \include{Selbst}
 
