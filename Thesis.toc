@@ -108,7 +108,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{36}{subsubsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}Subir Purkayastha}{37}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.5}An Indian American on Critical Offshoring Success Factors}{37}{subsection.3.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.5.1}Background}{37}{subsubsection.3.5.1}
 \defcounter {refsection}{0}\relax 
@@ -118,8 +118,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{42}{subsection.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{44}{section.4}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{46}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{45}{section.4}
+\contentsline {section}{References}{47}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{49}{section*.36}
+\contentsline {section}{Appendix}{51}{section*.36}
