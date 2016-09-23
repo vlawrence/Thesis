@@ -12,114 +12,114 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{7}{section.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Offshoring in Literature}{8}{section.2}
+\contentsline {section}{\numberline {2}Offshoring in Literature}{9}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Definition and Terms}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Definition and Terms}{9}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Factors for the Development of Offshoring}{10}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and Historical Developments}{10}{section*.6}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{11}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Information and Communication Technology}{10}{section*.7}
+\contentsline {paragraph}{\nonumberline Information and Communication Technology}{11}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Organizational Factors}{10}{section*.8}
+\contentsline {paragraph}{\nonumberline Organizational Factors}{11}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{11}{section*.9}
+\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-Demographic Factors}{12}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{12}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Offshoring in the USA}{13}{subsection.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and Historical Developments}{12}{section*.10}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{13}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Organizational Factors}{13}{section*.11}
+\contentsline {paragraph}{\nonumberline Organizational Factors}{14}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-demographic Factors}{15}{section*.12}
+\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-demographic Factors}{16}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring Quantified}{15}{section*.13}
+\contentsline {paragraph}{\nonumberline Offshoring Quantified}{16}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{17}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}Offshoring in Germany}{18}{subsection.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Political and Historical Developments}{17}{section*.14}
+\contentsline {paragraph}{\nonumberline Political and Historical Developments}{18}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Organizational Factors}{19}{section*.15}
+\contentsline {paragraph}{\nonumberline Organizational Factors}{20}{section*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-demographic Factors}{20}{section*.16}
+\contentsline {paragraph}{\nonumberline Macroeconomic and Socio-demographic Factors}{21}{section*.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring Quantified}{20}{section*.17}
+\contentsline {paragraph}{\nonumberline Offshoring Quantified}{21}{section*.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{21}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.5}Significant Differences between Germany and the USA}{22}{subsection.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Economic Focus}{21}{section*.18}
+\contentsline {paragraph}{\nonumberline Economic Focus}{22}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Maturity of Offshoring}{22}{section*.19}
+\contentsline {paragraph}{\nonumberline Maturity of Offshoring}{23}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Structure of organizations}{22}{section*.20}
+\contentsline {paragraph}{\nonumberline Structure of organizations}{23}{section*.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring Locations and Distances}{22}{section*.21}
+\contentsline {paragraph}{\nonumberline Offshoring Locations and Distances}{23}{section*.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Language}{22}{section*.22}
+\contentsline {paragraph}{\nonumberline Language}{23}{section*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Case Studies}{23}{section.3}
+\contentsline {section}{\numberline {3}Case Studies}{24}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Interview Technique}{23}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.1}Interview Technique}{24}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Identify experts}{24}{section*.23}
+\contentsline {paragraph}{\nonumberline Identify experts}{25}{section*.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Contact experts}{24}{section*.24}
+\contentsline {paragraph}{\nonumberline Contact experts}{25}{section*.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Negotiate date}{24}{section*.25}
+\contentsline {paragraph}{\nonumberline Negotiate date}{25}{section*.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Conduct interview}{24}{section*.26}
+\contentsline {paragraph}{\nonumberline Conduct interview}{25}{section*.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Evaluate interview}{24}{section*.27}
+\contentsline {paragraph}{\nonumberline Evaluate interview}{25}{section*.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Abstract interview}{24}{section*.28}
+\contentsline {paragraph}{\nonumberline Abstract interview}{25}{section*.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{24}{section*.29}
+\contentsline {paragraph}{\nonumberline Compare and evaluate all interviews}{25}{section*.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}A German Project Manager on Offshoring with Different Service Providers}{25}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}A German Project Manager on Offshoring with Different Service Providers}{26}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Background}{25}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1}Background}{26}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{25}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2}Results of Interview}{26}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{27}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3}Conclusions}{28}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}An Indian Offshoring Pioneer Comparing German and U.S. Clients}{28}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}An Indian Offshoring Pioneer Comparing German and U.S. Clients}{29}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Background}{28}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1}Background}{29}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{28}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{29}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{28}{section*.30}
+\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{29}{section*.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in Germany}{29}{section*.31}
+\contentsline {paragraph}{\nonumberline Offshoring in Germany}{30}{section*.31}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{31}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{32}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}A German Global Delivery Expert on FDI Experiences}{32}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.4}A German Global Delivery Expert on FDI Experiences}{33}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}Background}{32}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.1}Background}{33}{subsubsection.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2}Results of Interview}{32}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2}Results of Interview}{33}{subsubsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{33}{section*.32}
+\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{34}{section*.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in Germany}{34}{section*.33}
+\contentsline {paragraph}{\nonumberline Offshoring in Germany}{35}{section*.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{36}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{37}{subsubsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}An Indian American on Critical Offshoring Success Factors}{37}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.5}An Indian American on Critical Offshoring Success Factors}{38}{subsection.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}Background}{37}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1}Background}{38}{subsubsection.3.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2}Results of Interview}{37}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2}Results of Interview}{38}{subsubsection.3.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.3}Conclusions}{41}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.3}Conclusions}{42}{subsubsection.3.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{42}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.6}Summary and Evaluation}{43}{subsection.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions and Limitations}{46}{section.4}
+\contentsline {section}{\numberline {4}Conclusions and Limitations}{47}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{47}{section.4}
+\contentsline {section}{References}{48}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{51}{section*.36}
+\contentsline {section}{Appendix}{52}{section*.36}
