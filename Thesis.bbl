@@ -276,6 +276,48 @@
       \verb 10.3790/vjh.84.1.55
       \endverb
     \endentry
+    \entry{Gorg.2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ec630df369921bf6b21be71e3dd60de6}{%
+           family={Görg},
+           family_i={G\bibinitperiod},
+           given={Holger},
+           given_i={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d41e381b988b23388163b717a2934ba7}{%
+           family={Bacchetta},
+           family_i={B\bibinitperiod},
+           given={Marc},
+           given_i={M\bibinitperiod}}}%
+        {{hash=afc97294de22493573196a786edce255}{%
+           family={Jansen},
+           family_i={J\bibinitperiod},
+           given={Marion},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \list{publisher}{2}{%
+        {World Trade Organization}%
+        {International Labour Office}%
+      }
+      \strng{namehash}{ec630df369921bf6b21be71e3dd60de6}
+      \strng{fullhash}{ec630df369921bf6b21be71e3dd60de6}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Making globalization socially sustainable}
+      \field{isbn}{9221245837}
+      \field{title}{Globalization, offshoring and jobs}
+      \field{year}{2011}
+      \field{pages}{21\bibrangedash}
+      \range{pages}{-1}
+    \endentry
     \entry{Grossman.2008}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=3014f2183c29710cb6ffbe1a0d14aa80}{%

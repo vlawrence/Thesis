@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  24 SEP 2016 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  25 SEP 2016 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1275,168 +1275,168 @@ s been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.16 
-      <./Pictures/GER_Motives.jpg>]) [8]
+      <./Pictures/GER_Motives.jpg>] [8]) [9]
 \openout2 = `2_Offshoring-Literature.aux'.
 
  (./2_Offshoring-Literature.tex
-[9
+[10
 
 
-] <Pictures/Terms_definition.jpg, id=383, 387.69844pt x 389.20406pt>
+] <Pictures/Terms_definition.jpg, id=395, 387.69844pt x 389.20406pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
-Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 27.
+Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 28.
 (pdftex.def)             Requested size: 318.66948pt x 319.90956pt.
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.40 
+l.41 
       <./Pictures/Terms_definition.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 [][][]\OT1/cmr/m/n/10 Further in-for-ma-tion: []$\OT1/cmtt/m/n/10 https : / / u
 str . gov / trade -[] agreements / free -[] trade -[] agreements / north -[]
  []
 
-[11] [12pdfTeX warning (ext4): destination with the same identifier (name{table
+[12] [13pdfTeX warning (ext4): destination with the same identifier (name{table
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.76 \newpage
+l.77 \newpage
              ]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 []\OT1/cmr/m/n/12 ``The United States is the world's largest di-rect in-vestor[
 ...]''
  []
 
-[13]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+[14]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 102.
 
  (d:/Program Files/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
 
-<Pictures/US_Company_Size.jpg, id=480, 298.716pt x 255.8358pt>
+<Pictures/US_Company_Size.jpg, id=491, 298.716pt x 255.8358pt>
 File: Pictures/US_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/US_Company_Size.jpg>
-Package pdftex.def Info: Pictures/US_Company_Size.jpg used on input line 119.
+Package pdftex.def Info: Pictures/US_Company_Size.jpg used on input line 120.
 (pdftex.def)             Requested size: 227.62206pt x 194.95251pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 119--119
+Underfull \hbox (badness 1796) in paragraph at lines 120--120
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[14] <Pictures/US_Employees.jpg, id=491, 302.5704pt x 265.9536pt>
+[15] <Pictures/US_Employees.jpg, id=502, 302.5704pt x 265.9536pt>
 File: Pictures/US_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/US_Employees.jpg>
-Package pdftex.def Info: Pictures/US_Employees.jpg used on input line 122.
+Package pdftex.def Info: Pictures/US_Employees.jpg used on input line 123.
 (pdftex.def)             Requested size: 227.62206pt x 200.07747pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 122--122
+Underfull \hbox (badness 1796) in paragraph at lines 123--123
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.129 \paragraph
+l.130 \paragraph
                 {Macroeconomic and Socio-demographic Factors}pdfTeX warning (ex
 t4): destination with the same identifier (name{figure.4}) has been already use
 d, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.129 \paragraph
+l.130 \paragraph
                 {Macroeconomic and Socio-demographic Factors} <./Pictures/US_Co
 mpany_Size.jpg> <./Pictures/US_Employees.jpg>]
-<Pictures/US_Import_ICT_Services.jpg, id=513, 406.1574pt x 330.5148pt>
+<Pictures/US_Import_ICT_Services.jpg, id=524, 406.1574pt x 330.5148pt>
 File: Pictures/US_Import_ICT_Services.jpg Graphic file (type jpg)
 
 <use Pictures/US_Import_ICT_Services.jpg>
 Package pdftex.def Info: Pictures/US_Import_ICT_Services.jpg used on input line
- 139.
+ 140.
 (pdftex.def)             Requested size: 273.14923pt x 222.2759pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.142 
+l.143 
        <./Pictures/US_Import_ICT_Services.jpg>]
-<Pictures/US_Offshoring_percentage.jpg, id=527, 497.6994pt x 556.9608pt>
+<Pictures/US_Offshoring_percentage.jpg, id=538, 497.6994pt x 556.9608pt>
 File: Pictures/US_Offshoring_percentage.jpg Graphic file (type jpg)
 
 <use Pictures/US_Offshoring_percentage.jpg>
 Package pdftex.def Info: Pictures/US_Offshoring_percentage.jpg used on input li
-ne 145.
+ne 146.
 (pdftex.def)             Requested size: 409.71692pt x 458.504pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 145--145
+Underfull \hbox (badness 1796) in paragraph at lines 146--146
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[17pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.148 
-       <./Pictures/US_Offshoring_percentage.jpg>] [18] [19]
-<Pictures/GER_Company_Size.jpg, id=594, 292.9344pt x 295.3434pt>
+l.149 
+       <./Pictures/US_Offshoring_percentage.jpg>] [19] [20]
+<Pictures/GER_Company_Size.jpg, id=604, 292.9344pt x 295.3434pt>
 File: Pictures/GER_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Company_Size.jpg>
-Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 195.
+Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 196.
 (pdftex.def)             Requested size: 182.09486pt x 183.59772pt.
 
-<Pictures/GER_Employees.jpg, id=599, 292.9344pt x 295.8252pt>
+<Pictures/GER_Employees.jpg, id=609, 292.9344pt x 295.8252pt>
 File: Pictures/GER_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Employees.jpg>
-Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 202.
+Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 203.
 (pdftex.def)             Requested size: 182.09486pt x 183.89722pt.
- [20pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.212 
-       <./Pictures/GER_Company_Size.jpg>] [21pdfTeX warning (ext4): destination
+l.213 
+       <./Pictures/GER_Company_Size.jpg>] [22pdfTeX warning (ext4): destination
  with the same identifier (name{figure.8}) has been already used, duplicate ign
 ored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.221 
-       <./Pictures/GER_Employees.jpg>] [22]
-Underfull \hbox (badness 1796) in paragraph at lines 242--242
+l.222 
+       <./Pictures/GER_Employees.jpg>] [23]
+Underfull \hbox (badness 1796) in paragraph at lines 243--243
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-) [23]
+) [24]
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=681, 864.98157pt x 532.99126pt>
+<Pictures/Interview_process.jpg, id=691, 864.98157pt x 532.99126pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
 Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 18.
 (pdftex.def)             Requested size: 386.96027pt x 238.43687pt.
- [24
+ [25
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
@@ -1445,27 +1445,27 @@ s been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.23 \newpage
-              <./Pictures/Interview_process.jpg>] [25]
-<Pictures/1on1_relationship.jpg, id=703, 522.45187pt x 356.83313pt>
+              <./Pictures/Interview_process.jpg>] [26]
+<Pictures/1on1_relationship.jpg, id=713, 522.45187pt x 356.83313pt>
 File: Pictures/1on1_relationship.jpg Graphic file (type jpg)
 
 <use Pictures/1on1_relationship.jpg>
 Package pdftex.def Info: Pictures/1on1_relationship.jpg used on input line 60.
 (pdftex.def)             Requested size: 227.62206pt x 155.46617pt.
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+ [27pdfTeX warning (ext4): destination with the same identifier (name{figure.10
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.66 
       <./Pictures/1on1_relationship.jpg>]
-<Pictures/Hierarchy.jpg, id=710, 712.16063pt x 415.5525pt>
+<Pictures/Hierarchy.jpg, id=720, 712.16063pt x 415.5525pt>
 File: Pictures/Hierarchy.jpg Graphic file (type jpg)
 
 <use Pictures/Hierarchy.jpg>
 Package pdftex.def Info: Pictures/Hierarchy.jpg used on input line 76.
 (pdftex.def)             Requested size: 318.66948pt x 185.94432pt.
- [27pdfTeX warning (ext4): destination with the same identifier (name{figure.11
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.11
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1491,13 +1491,13 @@ Underfull \hbox (badness 7397) in paragraph at lines 99--99
 []|\OT1/cmr/m/n/12 Motivation by lo-cal project
  []
 
-[28pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+[29pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.112 \subsubsection
-                    {Background}] [29] [30] [31]
+                    {Background}] [30] [31] [32]
 Underfull \hbox (badness 3128) in paragraph at lines 155--155
 []|\OT1/cmr/m/n/12 Specialized vo-ca-tional train-
  []
@@ -1522,13 +1522,13 @@ Overfull \hbox (1.2375pt too wide) in paragraph at lines 152--163
  [][] 
  []
 
-[32pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
+[33pdfTeX warning (ext4): destination with the same identifier (name{table.3}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.173 
-      ] [33] [34] [35] [36]
+      ] [34] [35] [36] [37]
 Underfull \hbox (badness 10000) in paragraph at lines 235--235
 []|\OT1/cmr/m/n/12 Learning pro-cess about
  []
@@ -1548,13 +1548,13 @@ Overfull \hbox (3.05334pt too wide) in paragraph at lines 231--244
  [][] 
  []
 
-[37pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+[38pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.259 
-      ] [38] [39] [40] [41]
+      ] [39] [40] [41] [42]
 Underfull \hbox (badness 3189) in paragraph at lines 333--333
 \OT1/cmr/m/n/12 with the sup-plier is not
  []
@@ -1564,35 +1564,35 @@ Overfull \hbox (2.32854pt too wide) in paragraph at lines 329--342
  [][] 
  []
 
-[42pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
+[43pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.353 
-      ] <Pictures/Viewpoints.jpg, id=803, 263.48438pt x 271.0125pt>
+      ] <Pictures/Viewpoints.jpg, id=814, 263.48438pt x 271.0125pt>
 File: Pictures/Viewpoints.jpg Graphic file (type jpg)
 
 <use Pictures/Viewpoints.jpg>
 Package pdftex.def Info: Pictures/Viewpoints.jpg used on input line 358.
 (pdftex.def)             Requested size: 227.62206pt x 234.13724pt.
- [43pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+ [44pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.368 
-       <./Pictures/Viewpoints.jpg>] [44] [45pdfTeX warning (ext4): destination 
+       <./Pictures/Viewpoints.jpg>] [45] [46pdfTeX warning (ext4): destination 
 with the same identifier (name{table.6}) has been already used, duplicate ignor
 ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.411 
-      ]) [46]
+      ]) [47]
 \openout2 = `4_Conclusions.aux'.
 
- (./4_Conclusions.tex) [47
+ (./4_Conclusions.tex) [48
 
 
 ]
@@ -1601,16 +1601,16 @@ Underfull \hbox (badness 1622) in paragraph at lines 105--105
 s Fremd-sprache weltweit: Daten-er-he-bung
  []
 
+[49
 
+
+]
 Underfull \hbox (badness 1533) in paragraph at lines 105--105
 \OT1/cmr/m/n/12 Produktions- und In-for-ma-tion-s-man-age-ment''. In: \OT1/cmr/
 m/it/12 In-sourc-ing, Out-sourc-ing, Off-
  []
 
-[48
 
-
-]
 Underfull \hbox (badness 3417) in paragraph at lines 105--105
 \OT1/cmr/m/n/12 Wies-baden. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/
 m/n/12 https : / / www . destatis . de / DE / ZahlenFakten /
@@ -1622,10 +1622,10 @@ Underfull \hbox (badness 3590) in paragraph at lines 105--105
 bellen /
  []
 
-[49] [50]
+[50] [51]
 \openout2 = `Selbst.aux'.
 
- (./Selbst.tex) [51
+ (./Selbst.tex) [52
 
 ]
 \openout2 = `Appendix.aux'.
@@ -1687,7 +1687,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 42.
 
-[52
+[53
 
 
 ]
@@ -1705,8 +1705,8 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 48.
 
-[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
-[68] [69]) [70]
+[54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
+[69] [70]) [71]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./Thesis.aux (./1_Introduction.aux)
@@ -1722,10 +1722,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 19695 strings out of 493027
- 321735 string characters out of 6131332
- 900163 words of memory out of 5000000
- 22632 multiletter control sequences out of 15000+600000
+ 19704 strings out of 493027
+ 321863 string characters out of 6131332
+ 900260 words of memory out of 5000000
+ 22639 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,60p,1949b,2317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1750,10 +1750,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (70 pages, 967582 bytes).
+Output written on Thesis.pdf (71 pages, 969956 bytes).
 PDF statistics:
- 1092 PDF objects out of 1200 (max. 8388607)
- 974 compressed objects within 10 object streams
- 238 named destinations out of 1000 (max. 500000)
+ 1102 PDF objects out of 1200 (max. 8388607)
+ 983 compressed objects within 10 object streams
+ 240 named destinations out of 1000 (max. 500000)
  317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
