@@ -351,6 +351,40 @@
       \verb 10.1257/aer.98.5.1978
       \endverb
     \endentry
+    \entry{Heim.2014}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3ec41045ceea5c5caa8c7ea8783b981b}{%
+           family={Heim},
+           family_i={H\bibinitperiod},
+           given={Edgar},
+           given_i={E\bibinitperiod}}}%
+        {{uniquename=0,hash=b9c010e47e01bbbff6f954e4988fee05}{%
+           family={Matiz},
+           family_i={M\bibinitperiod},
+           given={Dario},
+           given_i={D\bibinitperiod}}}%
+        {{uniquename=0,hash=ac3fb13a5a890deff5e003149fcba99c}{%
+           family={Ehrat},
+           family_i={E\bibinitperiod},
+           given={Matthias},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{091f0d8edd008ed599062360ef6392ac}
+      \strng{fullhash}{091f0d8edd008ed599062360ef6392ac}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ZWF~Produktionsverlagerung}
+      \field{number}{12}
+      \field{title}{Offshoring oder Reshoring? Aktuelle Trends und eine Entscheidungshilfe für KMU~in Hochlohnländern}
+      \field{volume}{109}
+      \field{year}{2014}
+      \field{pages}{920\bibrangedash 922}
+      \range{pages}{3}
+    \endentry
     \entry{Helpman.1999}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=21befab6a0c50cc5cd0e449398ffee8b}{%
@@ -827,6 +861,72 @@
       \field{year}{1995}
       \field{pages}{1\bibrangedash 118}
       \range{pages}{118}
+    \endentry
+    \entry{Schroder.2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d6005906d22fed9fd86413d84172af54}{%
+           family={Schröder},
+           family_i={S\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6005906d22fed9fd86413d84172af54}
+      \strng{fullhash}{d6005906d22fed9fd86413d84172af54}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0143-831X}
+      \field{journaltitle}{Economic and Industrial Democracy}
+      \field{number}{2}
+      \field{title}{Should I stay or should I go? How moral arguments influence decisions about offshoring production}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{187\bibrangedash 204}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1177/0143831X12440465
+      \endverb
+    \endentry
+    \entry{Smite.2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=93185da8e82ba39a9ab2998784000e00}{%
+           family={Smite},
+           family_i={S\bibinitperiod},
+           given={Darja},
+           given_i={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c53efdc8f3652756e03c0cad92a677a1}{%
+           family={Calefato},
+           family_i={C\bibinitperiod},
+           given={Fabio},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=e1ce15e2eeb53e3fc8c6035fd761594b}{%
+           family={Wohlin},
+           family_i={W\bibinitperiod},
+           given={Claes},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{65efccd6b839cb83f900b0e7a5d39bbc}
+      \strng{fullhash}{65efccd6b839cb83f900b0e7a5d39bbc}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0740-7459}
+      \field{journaltitle}{IEEE Software}
+      \field{number}{4}
+      \field{title}{Cost Savings in Global Software Engineering: Where's the Evidence?}
+      \field{volume}{32}
+      \field{year}{2015}
+      \field{pages}{26\bibrangedash 32}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/MS.2015.102
+      \endverb
     \endentry
     \entry{Sollner.2014}{article}{}
       \name{author}{1}{}{%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  25 SEP 2016 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.5.13)  26 SEP 2016 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1261,11 +1261,11 @@ l.88 \firstpages
 \openout2 = `1_Introduction.aux'.
 
  (./1_Introduction.tex
-<Pictures/GER_Motives.jpg, id=336, 420.6114pt x 358.4592pt>
+<Pictures/GER_Motives.jpg, id=341, 420.6114pt x 358.4592pt>
 File: Pictures/GER_Motives.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Motives.jpg>
-Package pdftex.def Info: Pictures/GER_Motives.jpg used on input line 10.
+Package pdftex.def Info: Pictures/GER_Motives.jpg used on input line 11.
 (pdftex.def)             Requested size: 318.66948pt x 271.5895pt.
  [7
 
@@ -1274,7 +1274,7 @@ s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.16 
+l.15 
       <./Pictures/GER_Motives.jpg>] [8]) [9]
 \openout2 = `2_Offshoring-Literature.aux'.
 
@@ -1282,12 +1282,12 @@ l.16
 [10
 
 
-] <Pictures/Terms_definition.jpg, id=395, 387.69844pt x 389.20406pt>
+] <Pictures/Terms_definition.jpg, id=402, 461.47406pt x 500.62032pt>
 File: Pictures/Terms_definition.jpg Graphic file (type jpg)
 
 <use Pictures/Terms_definition.jpg>
 Package pdftex.def Info: Pictures/Terms_definition.jpg used on input line 28.
-(pdftex.def)             Requested size: 318.66948pt x 319.90956pt.
+(pdftex.def)             Requested size: 318.66948pt x 345.70338pt.
  [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
 ) has been already used, duplicate ignored
 
@@ -1321,26 +1321,26 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 102.
 
-<Pictures/US_Company_Size.jpg, id=491, 298.716pt x 255.8358pt>
+<Pictures/US_Company_Size.jpg, id=496, 298.716pt x 255.8358pt>
 File: Pictures/US_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/US_Company_Size.jpg>
-Package pdftex.def Info: Pictures/US_Company_Size.jpg used on input line 120.
+Package pdftex.def Info: Pictures/US_Company_Size.jpg used on input line 118.
 (pdftex.def)             Requested size: 227.62206pt x 194.95251pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 120--120
+Underfull \hbox (badness 1796) in paragraph at lines 118--118
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
 
-[15] <Pictures/US_Employees.jpg, id=502, 302.5704pt x 265.9536pt>
+[15] <Pictures/US_Employees.jpg, id=507, 302.5704pt x 265.9536pt>
 File: Pictures/US_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/US_Employees.jpg>
-Package pdftex.def Info: Pictures/US_Employees.jpg used on input line 123.
+Package pdftex.def Info: Pictures/US_Employees.jpg used on input line 120.
 (pdftex.def)             Requested size: 227.62206pt x 200.07747pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 123--123
+Underfull \hbox (badness 1796) in paragraph at lines 120--120
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
@@ -1350,39 +1350,39 @@ census . gov / faces / tableservices / jsf / pages / productview .
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.130 \paragraph
+l.127 \paragraph
                 {Macroeconomic and Socio-demographic Factors}pdfTeX warning (ex
 t4): destination with the same identifier (name{figure.4}) has been already use
 d, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.130 \paragraph
+l.127 \paragraph
                 {Macroeconomic and Socio-demographic Factors} <./Pictures/US_Co
 mpany_Size.jpg> <./Pictures/US_Employees.jpg>]
-<Pictures/US_Import_ICT_Services.jpg, id=524, 406.1574pt x 330.5148pt>
+<Pictures/US_Import_ICT_Services.jpg, id=529, 406.1574pt x 330.5148pt>
 File: Pictures/US_Import_ICT_Services.jpg Graphic file (type jpg)
 
 <use Pictures/US_Import_ICT_Services.jpg>
 Package pdftex.def Info: Pictures/US_Import_ICT_Services.jpg used on input line
- 140.
+ 137.
 (pdftex.def)             Requested size: 273.14923pt x 222.2759pt.
  [17pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.143 
+l.140 
        <./Pictures/US_Import_ICT_Services.jpg>]
-<Pictures/US_Offshoring_percentage.jpg, id=538, 497.6994pt x 556.9608pt>
+<Pictures/US_Offshoring_percentage.jpg, id=543, 497.6994pt x 556.9608pt>
 File: Pictures/US_Offshoring_percentage.jpg Graphic file (type jpg)
 
 <use Pictures/US_Offshoring_percentage.jpg>
 Package pdftex.def Info: Pictures/US_Offshoring_percentage.jpg used on input li
-ne 146.
+ne 143.
 (pdftex.def)             Requested size: 409.71692pt x 458.504pt.
 
-Underfull \hbox (badness 1796) in paragraph at lines 146--146
+Underfull \hbox (badness 1796) in paragraph at lines 143--143
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
@@ -1392,36 +1392,36 @@ census . gov / faces / tableservices / jsf / pages / productview .
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.149 
+l.146 
        <./Pictures/US_Offshoring_percentage.jpg>] [19] [20]
-<Pictures/GER_Company_Size.jpg, id=604, 292.9344pt x 295.3434pt>
+<Pictures/GER_Company_Size.jpg, id=609, 292.9344pt x 295.3434pt>
 File: Pictures/GER_Company_Size.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Company_Size.jpg>
-Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 196.
+Package pdftex.def Info: Pictures/GER_Company_Size.jpg used on input line 193.
 (pdftex.def)             Requested size: 182.09486pt x 183.59772pt.
 
-<Pictures/GER_Employees.jpg, id=609, 292.9344pt x 295.8252pt>
+<Pictures/GER_Employees.jpg, id=614, 292.9344pt x 295.8252pt>
 File: Pictures/GER_Employees.jpg Graphic file (type jpg)
 
 <use Pictures/GER_Employees.jpg>
-Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 203.
+Package pdftex.def Info: Pictures/GER_Employees.jpg used on input line 200.
 (pdftex.def)             Requested size: 182.09486pt x 183.89722pt.
  [21pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.213 
+l.210 
        <./Pictures/GER_Company_Size.jpg>] [22pdfTeX warning (ext4): destination
  with the same identifier (name{figure.8}) has been already used, duplicate ign
 ored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.222 
+l.219 
        <./Pictures/GER_Employees.jpg>] [23]
-Underfull \hbox (badness 1796) in paragraph at lines 243--243
+Underfull \hbox (badness 1796) in paragraph at lines 240--240
 [][][]\OT1/cmr/m/n/10 Data source: []$\OT1/cmtt/m/n/10 http : / / factfinder . 
 census . gov / faces / tableservices / jsf / pages / productview .
  []
@@ -1430,12 +1430,12 @@ census . gov / faces / tableservices / jsf / pages / productview .
 \openout2 = `3_Case-Studies.aux'.
 
  (./3_Case-Studies.tex
-<Pictures/Interview_process.jpg, id=691, 864.98157pt x 532.99126pt>
+<Pictures/Interview_process.jpg, id=696, 1005.7575pt x 669.2503pt>
 File: Pictures/Interview_process.jpg Graphic file (type jpg)
 
 <use Pictures/Interview_process.jpg>
 Package pdftex.def Info: Pictures/Interview_process.jpg used on input line 18.
-(pdftex.def)             Requested size: 386.96027pt x 238.43687pt.
+(pdftex.def)             Requested size: 364.19667pt x 242.33917pt.
  [25
 
 
@@ -1446,7 +1446,7 @@ s been already used, duplicate ignored
                                                   \fi \fi 
 l.23 \newpage
               <./Pictures/Interview_process.jpg>] [26]
-<Pictures/1on1_relationship.jpg, id=713, 522.45187pt x 356.83313pt>
+<Pictures/1on1_relationship.jpg, id=718, 522.45187pt x 356.83313pt>
 File: Pictures/1on1_relationship.jpg Graphic file (type jpg)
 
 <use Pictures/1on1_relationship.jpg>
@@ -1459,7 +1459,7 @@ Package pdftex.def Info: Pictures/1on1_relationship.jpg used on input line 60.
                                                   \fi \fi 
 l.66 
       <./Pictures/1on1_relationship.jpg>]
-<Pictures/Hierarchy.jpg, id=720, 712.16063pt x 415.5525pt>
+<Pictures/Hierarchy.jpg, id=725, 712.16063pt x 415.5525pt>
 File: Pictures/Hierarchy.jpg Graphic file (type jpg)
 
 <use Pictures/Hierarchy.jpg>
@@ -1555,12 +1555,12 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.259 
       ] [39] [40] [41] [42]
-Underfull \hbox (badness 3189) in paragraph at lines 333--333
+Underfull \hbox (badness 3189) in paragraph at lines 334--334
 \OT1/cmr/m/n/12 with the sup-plier is not
  []
 
 
-Overfull \hbox (2.32854pt too wide) in paragraph at lines 329--342
+Overfull \hbox (2.32854pt too wide) in paragraph at lines 330--343
  [][] 
  []
 
@@ -1569,39 +1569,52 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.353 
-      ] <Pictures/Viewpoints.jpg, id=814, 263.48438pt x 271.0125pt>
+l.354 
+      ] <Pictures/Viewpoints.jpg, id=815, 263.48438pt x 271.0125pt>
 File: Pictures/Viewpoints.jpg Graphic file (type jpg)
 
 <use Pictures/Viewpoints.jpg>
-Package pdftex.def Info: Pictures/Viewpoints.jpg used on input line 358.
+Package pdftex.def Info: Pictures/Viewpoints.jpg used on input line 359.
 (pdftex.def)             Requested size: 227.62206pt x 234.13724pt.
  [44pdfTeX warning (ext4): destination with the same identifier (name{figure.12
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.368 
+l.369 
        <./Pictures/Viewpoints.jpg>] [45] [46pdfTeX warning (ext4): destination 
 with the same identifier (name{table.6}) has been already used, duplicate ignor
 ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.411 
+l.412 
       ]) [47]
 \openout2 = `4_Conclusions.aux'.
 
- (./4_Conclusions.tex) [48
+ (./4_Conclusions.tex
+<Pictures/Results.jpg, id=838, 810.02625pt x 846.91406pt>
+File: Pictures/Results.jpg Graphic file (type jpg)
+
+<use Pictures/Results.jpg>
+Package pdftex.def Info: Pictures/Results.jpg used on input line 13.
+(pdftex.def)             Requested size: 364.19667pt x 380.78474pt.
+ [48
 
 
-]
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.19 
+      <./Pictures/Results.jpg>] [49]) [50]
 Underfull \hbox (badness 1622) in paragraph at lines 105--105
 [][]\OT1/cmr/m/n/12 Ausw^^?artiges Amt, ed. (2015). \OT1/cmr/m/it/12 Deutsch al
 s Fremd-sprache weltweit: Daten-er-he-bung
  []
 
-[49
+[51
 
 
 ]
@@ -1610,84 +1623,15 @@ Underfull \hbox (badness 1533) in paragraph at lines 105--105
 m/it/12 In-sourc-ing, Out-sourc-ing, Off-
  []
 
-
-Underfull \hbox (badness 3417) in paragraph at lines 105--105
-\OT1/cmr/m/n/12 Wies-baden. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/
-m/n/12 https : / / www . destatis . de / DE / ZahlenFakten /
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 105--105
-\OT1/cmtt/m/n/12 GesamtwirtschaftUmwelt / Aussenhandel / Gesamtentwicklung / Ta
-bellen /
- []
-
-[50] [51]
+[52] [53]
 \openout2 = `Selbst.aux'.
 
- (./Selbst.tex) [52
+ (./Selbst.tex) [54
 
 ]
 \openout2 = `Appendix.aux'.
 
- (./Appendix.tex
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 11.
-
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 24.
-
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 32.
-
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 42.
-
-[53
+ (./Appendix.tex [55
 
 
 ]
@@ -1703,10 +1647,67 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              Note also, that KOMA-Script will remove the definition
 (scrartcl)              of `\bf' anytime until release of about version 3.20.
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 48.
+(scrartcl)              by `\normalfont \bfseries ' on input line 37.
 
-[54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
-[69] [70]) [71]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 50.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 58.
+
+[56]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 68.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 74.
+
+[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
+[72] [73]) [74]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./Thesis.aux (./1_Introduction.aux)
@@ -1715,17 +1716,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AD4A18049876336EB748F0C8FB258724;2327.
+(rerunfilecheck)             Checksum: FAF40B22E9D241C4979ECEDE7F895626;2329.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 19704 strings out of 493027
- 321863 string characters out of 6131332
- 900260 words of memory out of 5000000
- 22639 multiletter control sequences out of 15000+600000
+ 19729 strings out of 493027
+ 322282 string characters out of 6131332
+ 900563 words of memory out of 5000000
+ 22656 multiletter control sequences out of 15000+600000
  11313 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,60p,1949b,2317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1750,10 +1751,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><d:/Program Files/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/Program Files/texli
 ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/Program Files/
 texlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on Thesis.pdf (71 pages, 969956 bytes).
+Output written on Thesis.pdf (74 pages, 1145914 bytes).
 PDF statistics:
- 1102 PDF objects out of 1200 (max. 8388607)
- 983 compressed objects within 10 object streams
- 240 named destinations out of 1000 (max. 500000)
- 317 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1146 PDF objects out of 1200 (max. 8388607)
+ 1022 compressed objects within 11 object streams
+ 247 named destinations out of 1000 (max. 500000)
+ 322 words of extra memory for PDF output out of 10000 (max. 10000000)
 

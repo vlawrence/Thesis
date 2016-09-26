@@ -90,10 +90,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.2}Results of Interview}{30}{subsubsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{30}{section*.30}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in Germany}{31}{section*.31}
-\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.3}Conclusions}{33}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}A German Global Delivery Expert on FDI Experiences}{34}{subsection.3.4}
@@ -101,10 +97,6 @@
 \contentsline {subsubsection}{\numberline {3.4.1}Background}{34}{subsubsection.3.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.2}Results of Interview}{34}{subsubsection.3.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in the U.S.}{35}{section*.32}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Offshoring in Germany}{36}{section*.33}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.3}Conclusions}{38}{subsubsection.3.4.3}
 \defcounter {refsection}{0}\relax 
@@ -120,6 +112,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Conclusions and Limitations}{48}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{49}{section.4}
+\contentsline {paragraph}{\nonumberline Summary of findings}{48}{section*.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Appendix}{53}{section*.36}
+\contentsline {paragraph}{\nonumberline Criticism of offshoring}{49}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Review of research method}{50}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Consequences for German companies}{50}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{51}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendix}{55}{section*.36}
